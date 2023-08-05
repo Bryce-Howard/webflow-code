@@ -1,0 +1,59 @@
+<div class="best-container">
+  <div class="w-layout-grid best-grid">
+    <div id="w-node-_69001059-0fa5-ce31-0196-d67851380425-d83824ec" class="best-cell">
+      <div class="best-card">
+        <a id="affiliate" href="#" class="best-button overall w-button">Best Overall</a><img class="best-image" src="https://uploads-ssl.webflow.com/649dde332b9b5853a0794b13/64ca7d6bb08d372cf1e45258_Lite%20Logo.webp" alt="MailerLite">
+        <div class="best-heading">Best Tool</div>
+        <p class="best-paragraph">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique.</p>
+        <a id="affiliate" href="#" class="primary-button best w-button">Go to site</a>
+        <a data-w-id="a6e20936-6d37-56e3-4b6b-a7a9c37fa05a" href="#" class="best-link w-inline-block">
+          <div>Read Review</div><img class="best-link-image" style="-webkit-transform:translate3d(0px, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0px, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0px, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0px, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" src="https://uploads-ssl.webflow.com/649dde332b9b5853a0794b13/64a31a2be135f9742c9a555e_right-arrow-line-icon-elements-brix-templates.svg">
+        </a>
+      </div>
+    </div>
+    <div id="w-node-b2902df5-b69a-7659-a5e3-efa2fbd0467e-d83824ec" class="best-cell">
+      <div class="best-card">
+        <a id="affiliate" href="#" class="best-button w-button">Best for Lorem</a><img class="best-image" src="https://uploads-ssl.webflow.com/649dde332b9b5853a0794b13/64ca7d6bb08d372cf1e45258_Lite%20Logo.webp" alt="Image">
+        <div class="best-heading">Best Tool</div>
+        <p class="best-paragraph">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique.</p>
+        <a id="affiliate" href="#" class="primary-button best w-button">Go to site</a>
+        <a data-w-id="78489855-72a2-3bee-798f-b6bee1084bd8" href="#" class="best-link w-inline-block">
+          <div>Read Review</div><img class="best-link-image" style="-webkit-transform:translate3d(0px, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0px, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0px, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0px, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" src="https://uploads-ssl.webflow.com/649dde332b9b5853a0794b13/64a31a2be135f9742c9a555e_right-arrow-line-icon-elements-brix-templates.svg">
+        </a>
+      </div>
+    </div>
+    <div id="w-node-_7f88c047-ab97-47de-b2bb-2002b43047e2-d83824ec" class="best-cell">
+      <div class="best-card">
+        <a id="affiliate" href="#" class="best-button w-button">Best for Lorem</a><img class="best-image" src="https://uploads-ssl.webflow.com/649dde332b9b5853a0794b13/64ca7d6bb08d372cf1e45258_Lite%20Logo.webp" alt="Image">
+        <div class="best-heading">Best Tool</div>
+        <p class="best-paragraph">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique.</p>
+        <a id="affiliate" href="#" class="primary-button best w-button">Go to site</a>
+        <a data-w-id="6a44d336-9232-1e1f-1e55-e557148ce0ae" href="#" class="best-link w-inline-block">
+          <div>Read Review</div><img class="best-link-image" style="-webkit-transform:translate3d(0px, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0px, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0px, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0px, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" src="https://uploads-ssl.webflow.com/649dde332b9b5853a0794b13/64a31a2be135f9742c9a555e_right-arrow-line-icon-elements-brix-templates.svg">
+        </a>
+      </div>
+    </div>
+    <div id="w-node-_9eef1113-b90a-818a-aa87-365cdfcc3ab6-d83824ec" class="best-cell">
+      <div class="best-card">
+        <a id="affiliate" href="#" class="best-button w-button">Best for Lorem</a><img class="best-image" src="https://uploads-ssl.webflow.com/649dde332b9b5853a0794b13/64ca7d6bb08d372cf1e45258_Lite%20Logo.webp" alt="Image">
+        <div class="best-heading">Best Tool</div>
+        <p class="best-paragraph">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique.</p>
+        <a id="affiliate" href="#" class="primary-button best w-button">Go to site</a>
+        <a data-w-id="2fa4a324-6f0b-4e0c-ee96-75320ee428fc" href="#" class="best-link w-inline-block">
+          <div>Read Review</div><img class="best-link-image" style="-webkit-transform:translate3d(0px, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0px, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0px, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0px, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" src="https://uploads-ssl.webflow.com/649dde332b9b5853a0794b13/64a31a2be135f9742c9a555e_right-arrow-line-icon-elements-brix-templates.svg">
+        </a>
+      </div>
+    </div>  
+    <div id="w-node-a239a930-d889-c380-c334-23136e40b72c-d83824ec" class="best-cell">
+      <div class="wf-layout-cell best-card">
+        <a id="affiliate" href="#" class="best-button w-button">Best for Lorem</a><img class="best-image" src="https://uploads-ssl.webflow.com/649dde332b9b5853a0794b13/64ca7d6bb08d372cf1e45258_Lite%20Logo.webp" alt="Image">
+        <div class="best-heading">Best Tool</div>
+        <p class="best-paragraph">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique.</p>
+        <a id="affiliate" href="#" class="primary-button best w-button">Go to site</a>
+        <a data-w-id="298d7b17-e4d8-e9ea-abff-c858d7ca1128" href="#" class="best-link w-inline-block">
+          <div>Read Review</div><img class="best-link-image" style="-webkit-transform:translate3d(0px, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0px, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0px, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0px, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" src="https://uploads-ssl.webflow.com/649dde332b9b5853a0794b13/64a31a2be135f9742c9a555e_right-arrow-line-icon-elements-brix-templates.svg">
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
