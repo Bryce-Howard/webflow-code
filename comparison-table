@@ -177,13 +177,3 @@
 		</div>
 	</div>
 </div>
-
-<style>
-  .compare-image {
-    box-shadow: 0 0 0 0 !important;
-    border-radius: 0 !important;
-  }
-  .scroll-wrap {
-    width: 100vw !important;
-  }
-</style>
