@@ -1,3 +1,13 @@
+<style>
+  .compare-image {
+    box-shadow: 0 0 0 0 !important;
+    border-radius: 0 !important;
+  }
+  .scroll-wrap {
+    width: 100vw !important;
+  }
+</style>
+
 <div class="scroll-wrap" data-w-id="a6ae6f80-240b-f8ef-0ec0-6dde8cbefb29" data-wf-id="[&quot;a6ae6f80-240b-f8ef-0ec0-6dde8cbefb29&quot;]">
 	<div class="w-layout-grid compare-grid wf-grid" data-w-id="afd19b86-2a7f-4910-8378-c36bc203a8ea" data-wf-id="[&quot;afd19b86-2a7f-4910-8378-c36bc203a8ea&quot;]">
 		<div class="compare-heading end" data-w-id="e225ca27-909b-f760-1bc0-55978d573c0c" data-wf-id="[&quot;e225ca27-909b-f760-1bc0-55978d573c0c&quot;]" id="w-node-e225ca27-909b-f760-1bc0-55978d573c0c-d83824ec">
