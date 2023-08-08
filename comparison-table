@@ -1,178 +1,178 @@
 <div class="scroll-wrap">
 	<div class="w-layout-grid compare-grid">
-		<div class="compare-heading end" id="w-node-d88e93cb-147e-b622-40ea-3a54e9c49a23-e2861c22">
+		<div class="compare-heading end" id="w-node-a4d2e0fd-9334-9a7c-264b-65eb111f2627-e2861c22">
 			<div>
 				Tool
 			</div>
 		</div>
-		<div class="compare-heading" id="w-node-d88e93cb-147e-b622-40ea-3a54e9c49a26-e2861c22">
+		<div class="compare-heading" id="w-node-a4d2e0fd-9334-9a7c-264b-65eb111f262a-e2861c22">
 			<div>
 				Category
 			</div>
 		</div>
-		<div class="compare-heading" id="w-node-d88e93cb-147e-b622-40ea-3a54e9c49a29-e2861c22">
+		<div class="compare-heading" id="w-node-a4d2e0fd-9334-9a7c-264b-65eb111f262d-e2861c22">
 			<div>
 				Starting Price
 			</div>
 		</div>
-		<div class="compare-heading" id="w-node-d88e93cb-147e-b622-40ea-3a54e9c49a2c-e2861c22">
+		<div class="compare-heading" id="w-node-a4d2e0fd-9334-9a7c-264b-65eb111f2630-e2861c22">
 			<div>
 				Key Email Features
 			</div>
 		</div>
-		<div class="compare-heading" id="w-node-d88e93cb-147e-b622-40ea-3a54e9c49a2f-e2861c22">
+		<div class="compare-heading" id="w-node-a4d2e0fd-9334-9a7c-264b-65eb111f2633-e2861c22">
 			<div>
 				Additional Features
 			</div>
 		</div>
-		<div class="compare-heading" id="w-node-d88e93cb-147e-b622-40ea-3a54e9c49a32-e2861c22">
+		<div class="compare-heading" id="w-node-a4d2e0fd-9334-9a7c-264b-65eb111f2636-e2861c22">
 			<div>
 				Learn More
 			</div>
 		</div>
-		<div class="compare-text" id="w-node-d88e93cb-147e-b622-40ea-3a54e9c49a35-e2861c22">
+		<div class="compare-text" id="w-node-a4d2e0fd-9334-9a7c-264b-65eb111f2639-e2861c22">
 			<img alt="" class="compare-image" src="https://uploads-ssl.webflow.com/649dde332b9b5853a0794b13/64ca7c67c2f7cef0b09d1619_mailerlite.webp">
 			<div>
 				<strong>MailerLite</strong>
 			</div>
 		</div>
-		<div class="compare-text" id="w-node-d88e93cb-147e-b622-40ea-3a54e9c49a3a-e2861c22">
+		<div class="compare-text" id="w-node-a4d2e0fd-9334-9a7c-264b-65eb111f263e-e2861c22">
 			<div>
 				Best Overall
 			</div><img alt="Stars - Elements Webflow Library - BRIX Templates" src="https://uploads-ssl.webflow.com/649dde332b9b5853a0794b13/649ef76694a71ff96ae5bc8c_stars-testimonials-brix-templates.svg" width="90">
 		</div>
-		<div class="compare-text" id="w-node-d88e93cb-147e-b622-40ea-3a54e9c49a3e-e2861c22">
+		<div class="compare-text" id="w-node-a4d2e0fd-9334-9a7c-264b-65eb111f2642-e2861c22">
 			<div>
 				Free; $13.50 per month (for up to 1,000 contacts)
 			</div>
 		</div>
-		<div class="compare-text" id="w-node-d88e93cb-147e-b622-40ea-3a54e9c49a41-e2861c22">
+		<div class="compare-text" id="w-node-a4d2e0fd-9334-9a7c-264b-65eb111f2645-e2861c22">
 			<div>
 				Email, website, and landing page builders
 			</div>
 		</div>
-		<div class="compare-text" id="w-node-d88e93cb-147e-b622-40ea-3a54e9c49a44-e2861c22">
+		<div class="compare-text" id="w-node-a4d2e0fd-9334-9a7c-264b-65eb111f2648-e2861c22">
 			<div>
 				Paid newsletter subscriptions, e-commerce integrations
 			</div>
 		</div>
-		<div class="compare-text alt-color alt" id="w-node-d88e93cb-147e-b622-40ea-3a54e9c49a47-e2861c22">
+		<div class="compare-text alt-color alt" id="w-node-a4d2e0fd-9334-9a7c-264b-65eb111f264b-e2861c22">
 			<a class="primary-button best w-button" href="https://www.mailerlite.com/a/dtjons01cjze" id="affiliate">Learn More</a>
 		</div>
-		<div class="compare-text alt-color" id="w-node-d88e93cb-147e-b622-40ea-3a54e9c49a4a-e2861c22">
+		<div class="compare-text alt-color" id="w-node-a4d2e0fd-9334-9a7c-264b-65eb111f264e-e2861c22">
 			<img alt="" class="compare-image" src="https://uploads-ssl.webflow.com/649dde332b9b5853a0794b13/64d11dc34c3995ce0b863917_CK%20Logo%202.webp">
 			<div>
 				<strong>Convertkit</strong>
 			</div>
 		</div>
-		<div class="compare-text alt-color" id="w-node-d88e93cb-147e-b622-40ea-3a54e9c49a4f-e2861c22">
+		<div class="compare-text alt-color" id="w-node-a4d2e0fd-9334-9a7c-264b-65eb111f2653-e2861c22">
 			<div>
 				For Creators
 			</div>
 		</div>
-		<div class="compare-text alt-color" id="w-node-d88e93cb-147e-b622-40ea-3a54e9c49a52-e2861c22">
+		<div class="compare-text alt-color" id="w-node-a4d2e0fd-9334-9a7c-264b-65eb111f2656-e2861c22">
 			<div>
 				Free; $25 per month (for up to 1,000 contacts)
 			</div>
 		</div>
-		<div class="compare-text alt-color" id="w-node-d88e93cb-147e-b622-40ea-3a54e9c49a55-e2861c22">
+		<div class="compare-text alt-color" id="w-node-a4d2e0fd-9334-9a7c-264b-65eb111f2659-e2861c22">
 			<div>
 				Newsletters, broadcasts, automation, segmentation, and reports.
 			</div>
 		</div>
-		<div class="compare-text alt-color" id="w-node-d88e93cb-147e-b622-40ea-3a54e9c49a58-e2861c22">
+		<div class="compare-text alt-color" id="w-node-a4d2e0fd-9334-9a7c-264b-65eb111f265c-e2861c22">
 			<div>
 				Landing pages, forms, link pages, e-commerce, and integrations
 			</div>
 		</div>
-		<div class="compare-text alt-color alt-end" id="w-node-d88e93cb-147e-b622-40ea-3a54e9c49a5b-e2861c22">
+		<div class="compare-text alt-color alt-end" id="w-node-a4d2e0fd-9334-9a7c-264b-65eb111f265f-e2861c22">
 			<a class="primary-button best w-button" href="https://convertkit.com?lmref=tCDlTw" id="affiliate">Learn More</a>
 		</div>
-		<div class="compare-text" id="w-node-d88e93cb-147e-b622-40ea-3a54e9c49a5e-e2861c22">
+		<div class="compare-text" id="w-node-a4d2e0fd-9334-9a7c-264b-65eb111f2662-e2861c22">
 			<img alt="" class="compare-image" src="https://uploads-ssl.webflow.com/649dde332b9b5853a0794b13/64d11dc398b119aae25faf06_GR%20Logo%202.webp">
 			<div>
 				<strong>GetResponse</strong>
 			</div>
 		</div>
-		<div class="compare-text" id="w-node-d88e93cb-147e-b622-40ea-3a54e9c49a63-e2861c22">
+		<div class="compare-text" id="w-node-a4d2e0fd-9334-9a7c-264b-65eb111f2667-e2861c22">
 			<div>
 				For Budget
 			</div>
 		</div>
-		<div class="compare-text" id="w-node-d88e93cb-147e-b622-40ea-3a54e9c49a66-e2861c22">
+		<div class="compare-text" id="w-node-a4d2e0fd-9334-9a7c-264b-65eb111f266a-e2861c22">
 			<div>
 				Free; $15.58 per month (for up to 1,000 contacts)
 			</div>
 		</div>
-		<div class="compare-text" id="w-node-d88e93cb-147e-b622-40ea-3a54e9c49a69-e2861c22">
+		<div class="compare-text" id="w-node-a4d2e0fd-9334-9a7c-264b-65eb111f266d-e2861c22">
 			<div>
 				Email, SMS marketing, segmentation
 			</div>
 		</div>
-		<div class="compare-text" id="w-node-d88e93cb-147e-b622-40ea-3a54e9c49a6c-e2861c22">
+		<div class="compare-text" id="w-node-a4d2e0fd-9334-9a7c-264b-65eb111f2670-e2861c22">
 			<div>
 				Website and landing page builders
 			</div>
 		</div>
-		<div class="compare-text alt-color alt" id="w-node-d88e93cb-147e-b622-40ea-3a54e9c49a6f-e2861c22">
+		<div class="compare-text alt-color alt" id="w-node-a4d2e0fd-9334-9a7c-264b-65eb111f2673-e2861c22">
 			<a class="primary-button best w-button" href="https://www.getresponse.com?a=wK9rNkPcGq" id="affiliate">Learn More</a>
 		</div>
-		<div class="compare-text alt-color" id="w-node-d88e93cb-147e-b622-40ea-3a54e9c49a72-e2861c22">
+		<div class="compare-text alt-color" id="w-node-a4d2e0fd-9334-9a7c-264b-65eb111f2676-e2861c22">
 			<img alt="" class="compare-image" src="https://uploads-ssl.webflow.com/649dde332b9b5853a0794b13/64d11dc33af2016f22f5d351_AC%20Logo%202.webp">
 			<div>
 				<strong>ActiveCampaign</strong>
 			</div>
 		</div>
-		<div class="compare-text alt-color" id="w-node-d88e93cb-147e-b622-40ea-3a54e9c49a77-e2861c22">
+		<div class="compare-text alt-color" id="w-node-a4d2e0fd-9334-9a7c-264b-65eb111f267b-e2861c22">
 			<div>
 				For Features
 			</div>
 		</div>
-		<div class="compare-text alt-color" id="w-node-d88e93cb-147e-b622-40ea-3a54e9c49a7a-e2861c22">
+		<div class="compare-text alt-color" id="w-node-a4d2e0fd-9334-9a7c-264b-65eb111f267e-e2861c22">
 			<div>
 				$29 per month (for up to 500 contacts)
 			</div>
 		</div>
-		<div class="compare-text alt-color" id="w-node-d88e93cb-147e-b622-40ea-3a54e9c49a7d-e2861c22">
+		<div class="compare-text alt-color" id="w-node-a4d2e0fd-9334-9a7c-264b-65eb111f2681-e2861c22">
 			<div>
 				Email, SMS, landing pages, segmentation
 			</div>
 		</div>
-		<div class="compare-text alt-color" id="w-node-d88e93cb-147e-b622-40ea-3a54e9c49a80-e2861c22">
+		<div class="compare-text alt-color" id="w-node-a4d2e0fd-9334-9a7c-264b-65eb111f2684-e2861c22">
 			<div>
 				Predictive sending, conditional content, e-commerce integrations
 			</div>
 		</div>
-		<div class="compare-text alt-color alt-end" id="w-node-d88e93cb-147e-b622-40ea-3a54e9c49a83-e2861c22">
-			<a class="primary-button best w-button" href="#" id="affiliate">Learn More</a>
+		<div class="compare-text alt-color alt-end" id="w-node-a4d2e0fd-9334-9a7c-264b-65eb111f2687-e2861c22">
+			<a class="primary-button best w-button" href="https://www.activecampaign.com/?_r=PYVR96GX" id="affiliate">Learn More</a>
 		</div>
-		<div class="compare-text" id="w-node-d88e93cb-147e-b622-40ea-3a54e9c49a86-e2861c22">
+		<div class="compare-text" id="w-node-a4d2e0fd-9334-9a7c-264b-65eb111f268a-e2861c22">
 			<img alt="" class="compare-image" src="https://uploads-ssl.webflow.com/649dde332b9b5853a0794b13/64d11dc33af2016f22f5d35c_BME%20Logo%202.webp">
 			<div>
 				<strong>Benchmark Email</strong>
 			</div>
 		</div>
-		<div class="compare-text" id="w-node-d88e93cb-147e-b622-40ea-3a54e9c49a8b-e2861c22">
+		<div class="compare-text" id="w-node-a4d2e0fd-9334-9a7c-264b-65eb111f268f-e2861c22">
 			<div>
 				For Simplicity
 			</div>
 		</div>
-		<div class="compare-text" id="w-node-d88e93cb-147e-b622-40ea-3a54e9c49a8e-e2861c22">
+		<div class="compare-text" id="w-node-a4d2e0fd-9334-9a7c-264b-65eb111f2692-e2861c22">
 			<div>
 				Free; $16 per month (for up to 1,000 contacts)
 			</div>
 		</div>
-		<div class="compare-text" id="w-node-d88e93cb-147e-b622-40ea-3a54e9c49a91-e2861c22">
+		<div class="compare-text" id="w-node-a4d2e0fd-9334-9a7c-264b-65eb111f2695-e2861c22">
 			<div>
 				Email marketing, templates, automation, segmentation, and reports.
 			</div>
 		</div>
-		<div class="compare-text" id="w-node-d88e93cb-147e-b622-40ea-3a54e9c49a94-e2861c22">
+		<div class="compare-text" id="w-node-a4d2e0fd-9334-9a7c-264b-65eb111f2698-e2861c22">
 			<div>
 				Landing pages, surveys, polls, image editor, and integrations
 			</div>
 		</div>
-		<div class="compare-text alt-color alt" id="w-node-d88e93cb-147e-b622-40ea-3a54e9c49a97-e2861c22">
+		<div class="compare-text alt-color alt" id="w-node-a4d2e0fd-9334-9a7c-264b-65eb111f269b-e2861c22">
 			<a class="primary-button best w-button" href="https://www.benchmarkemail.com?partner=1606615" id="affiliate">Learn More</a>
 		</div>
 	</div>
