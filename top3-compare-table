@@ -1,0 +1,472 @@
+<div class="scroll-wrap" data-w-id="4fb5fbbd-2bef-4682-fc43-25bb1ad29c37" data-wf-id="[&quot;4fb5fbbd-2bef-4682-fc43-25bb1ad29c37&quot;]">
+	<div class="w-layout-grid compare-grid top-3 wf-grid" data-w-id="4fb5fbbd-2bef-4682-fc43-25bb1ad29c38" data-wf-id="[&quot;4fb5fbbd-2bef-4682-fc43-25bb1ad29c38&quot;]">
+		<div class="top-3-cell" data-w-id="c30c12fb-597e-6561-a238-ba57fc3a634b" data-wf-id="[&quot;c30c12fb-597e-6561-a238-ba57fc3a634b&quot;]" id="w-node-c30c12fb-597e-6561-a238-ba57fc3a634b-d83824ec"></div>
+		<div class="top-3-cell" data-w-id="4083dfaa-f39c-ade1-3c6c-401065d52132" data-wf-id="[&quot;4083dfaa-f39c-ade1-3c6c-401065d52132&quot;]" id="w-node-_4083dfaa-f39c-ade1-3c6c-401065d52132-d83824ec">
+			<img alt="" data-w-id="5650169d-4f9f-be12-9fd2-994366fd5103" data-wf-id="[&quot;5650169d-4f9f-be12-9fd2-994366fd5103&quot;]" src="https://uploads-ssl.webflow.com/649dde332b9b5853a0794b13/64fb1692628acf6135c40d50_NordVPN.svg" width="200">
+		</div>
+		<div class="top-3-cell" data-w-id="05906e8f-311c-49c0-1923-6a469c31a1da" data-wf-id="[&quot;05906e8f-311c-49c0-1923-6a469c31a1da&quot;]" id="w-node-_05906e8f-311c-49c0-1923-6a469c31a1da-d83824ec">
+			<img alt="" data-w-id="4f994eae-7993-51d9-4270-a3dff95f0dfb" data-wf-id="[&quot;4f994eae-7993-51d9-4270-a3dff95f0dfb&quot;]" src="https://uploads-ssl.webflow.com/649dde332b9b5853a0794b13/64fc6cd6cf0e897a27365084_surfshark_logo.svg" width="200">
+		</div>
+		<div class="top-3-cell" data-w-id="ead8bec8-37d1-1b34-f843-8bc9204f765e" data-wf-id="[&quot;ead8bec8-37d1-1b34-f843-8bc9204f765e&quot;]" id="w-node-ead8bec8-37d1-1b34-f843-8bc9204f765e-d83824ec">
+			<img alt="" data-w-id="0cc45762-b1cc-e86e-aa9c-0211b902b7d2" data-wf-id="[&quot;0cc45762-b1cc-e86e-aa9c-0211b902b7d2&quot;]" src="https://uploads-ssl.webflow.com/649dde332b9b5853a0794b13/64fc77306b4ef83f4e31beea_Ip-Vanish.svg" width="200">
+		</div>
+		<div class="top-3-cell line top left" data-w-id="757b804a-a2eb-e9ba-4c81-b3e0f897c258" data-wf-id="[&quot;757b804a-a2eb-e9ba-4c81-b3e0f897c258&quot;]" id="w-node-_757b804a-a2eb-e9ba-4c81-b3e0f897c258-d83824ec">
+			<div data-w-id="c87aae2b-3960-b279-e1f6-2d2bcc133e6a" data-wf-id="[&quot;c87aae2b-3960-b279-e1f6-2d2bcc133e6a&quot;]">
+				Category
+			</div>
+		</div>
+		<div class="top-3-cell line top" data-w-id="8da925cd-0ba8-d900-a8fa-4577b735f91e" data-wf-id="[&quot;8da925cd-0ba8-d900-a8fa-4577b735f91e&quot;]" id="w-node-_8da925cd-0ba8-d900-a8fa-4577b735f91e-d83824ec">
+			<div data-w-id="8da925cd-0ba8-d900-a8fa-4577b735f91f" data-wf-id="[&quot;8da925cd-0ba8-d900-a8fa-4577b735f91f&quot;]">
+				Best Overall VPN
+			</div>
+		</div>
+		<div class="top-3-cell line top" data-w-id="26a592a0-c504-0b39-6d25-24f9699c5295" data-wf-id="[&quot;26a592a0-c504-0b39-6d25-24f9699c5295&quot;]" id="w-node-_26a592a0-c504-0b39-6d25-24f9699c5295-d83824ec">
+			<div data-w-id="26a592a0-c504-0b39-6d25-24f9699c5296" data-wf-id="[&quot;26a592a0-c504-0b39-6d25-24f9699c5296&quot;]">
+				Best for Optimization
+			</div>
+		</div>
+		<div class="top-3-cell line top right" data-w-id="ac4aa844-6aea-21dc-723a-e32c445407a0" data-wf-id="[&quot;ac4aa844-6aea-21dc-723a-e32c445407a0&quot;]" id="w-node-ac4aa844-6aea-21dc-723a-e32c445407a0-d83824ec">
+			<div data-w-id="ac4aa844-6aea-21dc-723a-e32c445407a1" data-wf-id="[&quot;ac4aa844-6aea-21dc-723a-e32c445407a1&quot;]">
+				Best for Encryption
+			</div>
+		</div>
+		<div class="top-3-cell break" data-w-id="3ee1895e-d26e-b600-9d3e-0953b496390b" data-wf-id="[&quot;3ee1895e-d26e-b600-9d3e-0953b496390b&quot;]" id="w-node-_3ee1895e-d26e-b600-9d3e-0953b496390b-d83824ec">
+			<div data-w-id="3ee1895e-d26e-b600-9d3e-0953b496390c" data-wf-id="[&quot;3ee1895e-d26e-b600-9d3e-0953b496390c&quot;]">
+				Performance
+			</div>
+		</div>
+		<div class="top-3-cell line left" data-w-id="5e69dab6-8bc5-e6bf-ec09-a6f0f4681d08" data-wf-id="[&quot;5e69dab6-8bc5-e6bf-ec09-a6f0f4681d08&quot;]" id="w-node-_5e69dab6-8bc5-e6bf-ec09-a6f0f4681d08-d83824ec">
+			<div data-w-id="656b1623-ebb8-1b43-2a3e-e3e650eba7cf" data-wf-id="[&quot;656b1623-ebb8-1b43-2a3e-e3e650eba7cf&quot;]">
+				Overall Speed
+			</div>
+		</div>
+		<div class="top-3-cell line" data-w-id="98a515de-b93d-7f5b-5a16-613436b59ba2" data-wf-id="[&quot;98a515de-b93d-7f5b-5a16-613436b59ba2&quot;]" id="w-node-_98a515de-b93d-7f5b-5a16-613436b59ba2-d83824ec">
+			<div class="_5-bar-text" data-w-id="afacadde-9213-c2b0-a678-cf25b8f99f55" data-wf-id="[&quot;afacadde-9213-c2b0-a678-cf25b8f99f55&quot;]">
+				Very Fast (459Mbit/s)
+			</div>
+			<div class="w-layout-hflex _5-bar" data-w-id="4ebda471-9a1f-9729-6ad1-6af4472023c8" data-wf-id="[&quot;4ebda471-9a1f-9729-6ad1-6af4472023c8&quot;]">
+				<div class="bar" data-w-id="36248240-03f2-aea2-c25b-1a5637a6850f" data-wf-id="[&quot;36248240-03f2-aea2-c25b-1a5637a6850f&quot;]"></div>
+				<div class="bar" data-w-id="8ff5ece4-ab25-428a-8c42-f06b3bf79f70" data-wf-id="[&quot;8ff5ece4-ab25-428a-8c42-f06b3bf79f70&quot;]"></div>
+				<div class="bar" data-w-id="2e6d95d6-32ec-5cb8-2c97-ad82a896e367" data-wf-id="[&quot;2e6d95d6-32ec-5cb8-2c97-ad82a896e367&quot;]"></div>
+				<div class="bar" data-w-id="656f7443-7444-3e68-05a0-6ee396d5aa14" data-wf-id="[&quot;656f7443-7444-3e68-05a0-6ee396d5aa14&quot;]"></div>
+				<div class="bar" data-w-id="dba862ad-033d-0928-5e29-99c4bb8c118f" data-wf-id="[&quot;dba862ad-033d-0928-5e29-99c4bb8c118f&quot;]"></div>
+			</div>
+		</div>
+		<div class="top-3-cell line" data-w-id="3541f64d-ea0c-2741-ce16-3acf8d3ef4f7" data-wf-id="[&quot;3541f64d-ea0c-2741-ce16-3acf8d3ef4f7&quot;]" id="w-node-_3541f64d-ea0c-2741-ce16-3acf8d3ef4f7-d83824ec">
+			<div class="_5-bar-text" data-w-id="3541f64d-ea0c-2741-ce16-3acf8d3ef4f8" data-wf-id="[&quot;3541f64d-ea0c-2741-ce16-3acf8d3ef4f8&quot;]">
+				Fast (324Mbit/s)
+			</div>
+			<div class="w-layout-hflex _5-bar" data-w-id="3541f64d-ea0c-2741-ce16-3acf8d3ef4fa" data-wf-id="[&quot;3541f64d-ea0c-2741-ce16-3acf8d3ef4fa&quot;]">
+				<div class="bar" data-w-id="3541f64d-ea0c-2741-ce16-3acf8d3ef4fb" data-wf-id="[&quot;3541f64d-ea0c-2741-ce16-3acf8d3ef4fb&quot;]"></div>
+				<div class="bar" data-w-id="3541f64d-ea0c-2741-ce16-3acf8d3ef4fc" data-wf-id="[&quot;3541f64d-ea0c-2741-ce16-3acf8d3ef4fc&quot;]"></div>
+				<div class="bar" data-w-id="3541f64d-ea0c-2741-ce16-3acf8d3ef4fd" data-wf-id="[&quot;3541f64d-ea0c-2741-ce16-3acf8d3ef4fd&quot;]"></div>
+				<div class="bar" data-w-id="3541f64d-ea0c-2741-ce16-3acf8d3ef4fe" data-wf-id="[&quot;3541f64d-ea0c-2741-ce16-3acf8d3ef4fe&quot;]"></div>
+				<div class="bar" data-w-id="3541f64d-ea0c-2741-ce16-3acf8d3ef4ff" data-wf-id="[&quot;3541f64d-ea0c-2741-ce16-3acf8d3ef4ff&quot;]"></div>
+			</div>
+		</div>
+		<div class="top-3-cell line right" data-w-id="560b69d3-657a-4c98-46f4-9b037c288f4a" data-wf-id="[&quot;560b69d3-657a-4c98-46f4-9b037c288f4a&quot;]" id="w-node-_560b69d3-657a-4c98-46f4-9b037c288f4a-d83824ec">
+			<div class="_5-bar-text" data-w-id="560b69d3-657a-4c98-46f4-9b037c288f4b" data-wf-id="[&quot;560b69d3-657a-4c98-46f4-9b037c288f4b&quot;]">
+				Fast (270Mbit/s)
+			</div>
+			<div class="w-layout-hflex _5-bar" data-w-id="560b69d3-657a-4c98-46f4-9b037c288f4d" data-wf-id="[&quot;560b69d3-657a-4c98-46f4-9b037c288f4d&quot;]">
+				<div class="bar" data-w-id="560b69d3-657a-4c98-46f4-9b037c288f4e" data-wf-id="[&quot;560b69d3-657a-4c98-46f4-9b037c288f4e&quot;]"></div>
+				<div class="bar" data-w-id="560b69d3-657a-4c98-46f4-9b037c288f4f" data-wf-id="[&quot;560b69d3-657a-4c98-46f4-9b037c288f4f&quot;]"></div>
+				<div class="bar" data-w-id="560b69d3-657a-4c98-46f4-9b037c288f50" data-wf-id="[&quot;560b69d3-657a-4c98-46f4-9b037c288f50&quot;]"></div>
+				<div class="bar" data-w-id="560b69d3-657a-4c98-46f4-9b037c288f51" data-wf-id="[&quot;560b69d3-657a-4c98-46f4-9b037c288f51&quot;]"></div>
+				<div class="bar orange" data-w-id="560b69d3-657a-4c98-46f4-9b037c288f52" data-wf-id="[&quot;560b69d3-657a-4c98-46f4-9b037c288f52&quot;]"></div>
+			</div>
+		</div>
+		<div class="top-3-cell line left" data-w-id="ee54f7d9-a9fd-2ca9-768c-d8453901f0dc" data-wf-id="[&quot;ee54f7d9-a9fd-2ca9-768c-d8453901f0dc&quot;]" id="w-node-ee54f7d9-a9fd-2ca9-768c-d8453901f0dc-d83824ec">
+			<div data-w-id="ee54f7d9-a9fd-2ca9-768c-d8453901f0dd" data-wf-id="[&quot;ee54f7d9-a9fd-2ca9-768c-d8453901f0dd&quot;]">
+				Torrenting
+			</div>
+		</div>
+		<div class="top-3-cell line" data-w-id="915cd26f-7a7f-2563-0d4f-6211f5acdd21" data-wf-id="[&quot;915cd26f-7a7f-2563-0d4f-6211f5acdd21&quot;]" id="w-node-_915cd26f-7a7f-2563-0d4f-6211f5acdd21-d83824ec">
+			<div class="_5-bar-text" data-w-id="915cd26f-7a7f-2563-0d4f-6211f5acdd22" data-wf-id="[&quot;915cd26f-7a7f-2563-0d4f-6211f5acdd22&quot;]">
+				Excellent
+			</div>
+			<div class="w-layout-hflex _5-bar" data-w-id="915cd26f-7a7f-2563-0d4f-6211f5acdd24" data-wf-id="[&quot;915cd26f-7a7f-2563-0d4f-6211f5acdd24&quot;]">
+				<div class="bar" data-w-id="915cd26f-7a7f-2563-0d4f-6211f5acdd25" data-wf-id="[&quot;915cd26f-7a7f-2563-0d4f-6211f5acdd25&quot;]"></div>
+				<div class="bar" data-w-id="915cd26f-7a7f-2563-0d4f-6211f5acdd26" data-wf-id="[&quot;915cd26f-7a7f-2563-0d4f-6211f5acdd26&quot;]"></div>
+				<div class="bar" data-w-id="915cd26f-7a7f-2563-0d4f-6211f5acdd27" data-wf-id="[&quot;915cd26f-7a7f-2563-0d4f-6211f5acdd27&quot;]"></div>
+				<div class="bar" data-w-id="915cd26f-7a7f-2563-0d4f-6211f5acdd28" data-wf-id="[&quot;915cd26f-7a7f-2563-0d4f-6211f5acdd28&quot;]"></div>
+				<div class="bar" data-w-id="915cd26f-7a7f-2563-0d4f-6211f5acdd29" data-wf-id="[&quot;915cd26f-7a7f-2563-0d4f-6211f5acdd29&quot;]"></div>
+			</div>
+		</div>
+		<div class="top-3-cell line" data-w-id="de3776d4-89ff-4c83-b917-ea73c3598dbd" data-wf-id="[&quot;de3776d4-89ff-4c83-b917-ea73c3598dbd&quot;]" id="w-node-de3776d4-89ff-4c83-b917-ea73c3598dbd-d83824ec">
+			<div class="_5-bar-text" data-w-id="de3776d4-89ff-4c83-b917-ea73c3598dbe" data-wf-id="[&quot;de3776d4-89ff-4c83-b917-ea73c3598dbe&quot;]">
+				Excellent
+			</div>
+			<div class="w-layout-hflex _5-bar" data-w-id="de3776d4-89ff-4c83-b917-ea73c3598dc0" data-wf-id="[&quot;de3776d4-89ff-4c83-b917-ea73c3598dc0&quot;]">
+				<div class="bar" data-w-id="de3776d4-89ff-4c83-b917-ea73c3598dc1" data-wf-id="[&quot;de3776d4-89ff-4c83-b917-ea73c3598dc1&quot;]"></div>
+				<div class="bar" data-w-id="de3776d4-89ff-4c83-b917-ea73c3598dc2" data-wf-id="[&quot;de3776d4-89ff-4c83-b917-ea73c3598dc2&quot;]"></div>
+				<div class="bar" data-w-id="de3776d4-89ff-4c83-b917-ea73c3598dc3" data-wf-id="[&quot;de3776d4-89ff-4c83-b917-ea73c3598dc3&quot;]"></div>
+				<div class="bar" data-w-id="de3776d4-89ff-4c83-b917-ea73c3598dc4" data-wf-id="[&quot;de3776d4-89ff-4c83-b917-ea73c3598dc4&quot;]"></div>
+				<div class="bar" data-w-id="de3776d4-89ff-4c83-b917-ea73c3598dc5" data-wf-id="[&quot;de3776d4-89ff-4c83-b917-ea73c3598dc5&quot;]"></div>
+			</div>
+		</div>
+		<div class="top-3-cell line right" data-w-id="9e73e7cf-63f4-d7ca-5dc1-26be1042fa6c" data-wf-id="[&quot;9e73e7cf-63f4-d7ca-5dc1-26be1042fa6c&quot;]" id="w-node-_9e73e7cf-63f4-d7ca-5dc1-26be1042fa6c-d83824ec">
+			<div class="_5-bar-text" data-w-id="9e73e7cf-63f4-d7ca-5dc1-26be1042fa6d" data-wf-id="[&quot;9e73e7cf-63f4-d7ca-5dc1-26be1042fa6d&quot;]">
+				Very Good
+			</div>
+			<div class="w-layout-hflex _5-bar" data-w-id="9e73e7cf-63f4-d7ca-5dc1-26be1042fa6f" data-wf-id="[&quot;9e73e7cf-63f4-d7ca-5dc1-26be1042fa6f&quot;]">
+				<div class="bar" data-w-id="9e73e7cf-63f4-d7ca-5dc1-26be1042fa70" data-wf-id="[&quot;9e73e7cf-63f4-d7ca-5dc1-26be1042fa70&quot;]"></div>
+				<div class="bar" data-w-id="9e73e7cf-63f4-d7ca-5dc1-26be1042fa71" data-wf-id="[&quot;9e73e7cf-63f4-d7ca-5dc1-26be1042fa71&quot;]"></div>
+				<div class="bar" data-w-id="9e73e7cf-63f4-d7ca-5dc1-26be1042fa72" data-wf-id="[&quot;9e73e7cf-63f4-d7ca-5dc1-26be1042fa72&quot;]"></div>
+				<div class="bar" data-w-id="9e73e7cf-63f4-d7ca-5dc1-26be1042fa73" data-wf-id="[&quot;9e73e7cf-63f4-d7ca-5dc1-26be1042fa73&quot;]"></div>
+				<div class="bar orange" data-w-id="9e73e7cf-63f4-d7ca-5dc1-26be1042fa74" data-wf-id="[&quot;9e73e7cf-63f4-d7ca-5dc1-26be1042fa74&quot;]"></div>
+			</div>
+		</div>
+		<div class="top-3-cell line left" data-w-id="fc241af6-6ac0-eaee-ae41-eb7908ec2e96" data-wf-id="[&quot;fc241af6-6ac0-eaee-ae41-eb7908ec2e96&quot;]" id="w-node-fc241af6-6ac0-eaee-ae41-eb7908ec2e96-d83824ec">
+			<div data-w-id="fc241af6-6ac0-eaee-ae41-eb7908ec2e97" data-wf-id="[&quot;fc241af6-6ac0-eaee-ae41-eb7908ec2e97&quot;]">
+				Streaming
+			</div>
+		</div>
+		<div class="top-3-cell line" data-w-id="e8610f25-36eb-0ff5-a038-38fc3bcda7ad" data-wf-id="[&quot;e8610f25-36eb-0ff5-a038-38fc3bcda7ad&quot;]" id="w-node-e8610f25-36eb-0ff5-a038-38fc3bcda7ad-d83824ec">
+			<div class="_5-bar-text" data-w-id="e8610f25-36eb-0ff5-a038-38fc3bcda7ae" data-wf-id="[&quot;e8610f25-36eb-0ff5-a038-38fc3bcda7ae&quot;]">
+				Excellent
+			</div>
+			<div class="w-layout-hflex _5-bar" data-w-id="e8610f25-36eb-0ff5-a038-38fc3bcda7b0" data-wf-id="[&quot;e8610f25-36eb-0ff5-a038-38fc3bcda7b0&quot;]">
+				<div class="bar" data-w-id="e8610f25-36eb-0ff5-a038-38fc3bcda7b1" data-wf-id="[&quot;e8610f25-36eb-0ff5-a038-38fc3bcda7b1&quot;]"></div>
+				<div class="bar" data-w-id="e8610f25-36eb-0ff5-a038-38fc3bcda7b2" data-wf-id="[&quot;e8610f25-36eb-0ff5-a038-38fc3bcda7b2&quot;]"></div>
+				<div class="bar" data-w-id="e8610f25-36eb-0ff5-a038-38fc3bcda7b3" data-wf-id="[&quot;e8610f25-36eb-0ff5-a038-38fc3bcda7b3&quot;]"></div>
+				<div class="bar" data-w-id="e8610f25-36eb-0ff5-a038-38fc3bcda7b4" data-wf-id="[&quot;e8610f25-36eb-0ff5-a038-38fc3bcda7b4&quot;]"></div>
+				<div class="bar" data-w-id="e8610f25-36eb-0ff5-a038-38fc3bcda7b5" data-wf-id="[&quot;e8610f25-36eb-0ff5-a038-38fc3bcda7b5&quot;]"></div>
+			</div>
+		</div>
+		<div class="top-3-cell line" data-w-id="20d3a2fe-5e8e-d165-ecfc-7e7c0d38d75a" data-wf-id="[&quot;20d3a2fe-5e8e-d165-ecfc-7e7c0d38d75a&quot;]" id="w-node-_20d3a2fe-5e8e-d165-ecfc-7e7c0d38d75a-d83824ec">
+			<div class="_5-bar-text" data-w-id="20d3a2fe-5e8e-d165-ecfc-7e7c0d38d75b" data-wf-id="[&quot;20d3a2fe-5e8e-d165-ecfc-7e7c0d38d75b&quot;]">
+				Very Good
+			</div>
+			<div class="w-layout-hflex _5-bar" data-w-id="20d3a2fe-5e8e-d165-ecfc-7e7c0d38d75d" data-wf-id="[&quot;20d3a2fe-5e8e-d165-ecfc-7e7c0d38d75d&quot;]">
+				<div class="bar" data-w-id="20d3a2fe-5e8e-d165-ecfc-7e7c0d38d75e" data-wf-id="[&quot;20d3a2fe-5e8e-d165-ecfc-7e7c0d38d75e&quot;]"></div>
+				<div class="bar" data-w-id="20d3a2fe-5e8e-d165-ecfc-7e7c0d38d75f" data-wf-id="[&quot;20d3a2fe-5e8e-d165-ecfc-7e7c0d38d75f&quot;]"></div>
+				<div class="bar" data-w-id="20d3a2fe-5e8e-d165-ecfc-7e7c0d38d760" data-wf-id="[&quot;20d3a2fe-5e8e-d165-ecfc-7e7c0d38d760&quot;]"></div>
+				<div class="bar" data-w-id="20d3a2fe-5e8e-d165-ecfc-7e7c0d38d761" data-wf-id="[&quot;20d3a2fe-5e8e-d165-ecfc-7e7c0d38d761&quot;]"></div>
+				<div class="bar orange" data-w-id="20d3a2fe-5e8e-d165-ecfc-7e7c0d38d762" data-wf-id="[&quot;20d3a2fe-5e8e-d165-ecfc-7e7c0d38d762&quot;]"></div>
+			</div>
+		</div>
+		<div class="top-3-cell line right" data-w-id="2cc97d5b-980f-2a16-7140-abaea797b292" data-wf-id="[&quot;2cc97d5b-980f-2a16-7140-abaea797b292&quot;]" id="w-node-_2cc97d5b-980f-2a16-7140-abaea797b292-d83824ec">
+			<div class="_5-bar-text" data-w-id="2cc97d5b-980f-2a16-7140-abaea797b293" data-wf-id="[&quot;2cc97d5b-980f-2a16-7140-abaea797b293&quot;]">
+				Very Good
+			</div>
+			<div class="w-layout-hflex _5-bar" data-w-id="2cc97d5b-980f-2a16-7140-abaea797b295" data-wf-id="[&quot;2cc97d5b-980f-2a16-7140-abaea797b295&quot;]">
+				<div class="bar" data-w-id="2cc97d5b-980f-2a16-7140-abaea797b296" data-wf-id="[&quot;2cc97d5b-980f-2a16-7140-abaea797b296&quot;]"></div>
+				<div class="bar" data-w-id="2cc97d5b-980f-2a16-7140-abaea797b297" data-wf-id="[&quot;2cc97d5b-980f-2a16-7140-abaea797b297&quot;]"></div>
+				<div class="bar" data-w-id="2cc97d5b-980f-2a16-7140-abaea797b298" data-wf-id="[&quot;2cc97d5b-980f-2a16-7140-abaea797b298&quot;]"></div>
+				<div class="bar" data-w-id="2cc97d5b-980f-2a16-7140-abaea797b299" data-wf-id="[&quot;2cc97d5b-980f-2a16-7140-abaea797b299&quot;]"></div>
+				<div class="bar orange" data-w-id="2cc97d5b-980f-2a16-7140-abaea797b29a" data-wf-id="[&quot;2cc97d5b-980f-2a16-7140-abaea797b29a&quot;]"></div>
+			</div>
+		</div>
+		<div class="top-3-cell line left" data-w-id="7e86763a-c44f-3084-35e2-3d0795c26c9e" data-wf-id="[&quot;7e86763a-c44f-3084-35e2-3d0795c26c9e&quot;]" id="w-node-_7e86763a-c44f-3084-35e2-3d0795c26c9e-d83824ec">
+			<div data-w-id="7e86763a-c44f-3084-35e2-3d0795c26c9f" data-wf-id="[&quot;7e86763a-c44f-3084-35e2-3d0795c26c9f&quot;]">
+				Gaming
+			</div>
+		</div>
+		<div class="top-3-cell line" data-w-id="43808723-c6b8-8b39-0f9f-7f8f70b34461" data-wf-id="[&quot;43808723-c6b8-8b39-0f9f-7f8f70b34461&quot;]" id="w-node-_43808723-c6b8-8b39-0f9f-7f8f70b34461-d83824ec">
+			<div class="_5-bar-text" data-w-id="43808723-c6b8-8b39-0f9f-7f8f70b34462" data-wf-id="[&quot;43808723-c6b8-8b39-0f9f-7f8f70b34462&quot;]">
+				Excellent
+			</div>
+			<div class="w-layout-hflex _5-bar" data-w-id="43808723-c6b8-8b39-0f9f-7f8f70b34464" data-wf-id="[&quot;43808723-c6b8-8b39-0f9f-7f8f70b34464&quot;]">
+				<div class="bar" data-w-id="43808723-c6b8-8b39-0f9f-7f8f70b34465" data-wf-id="[&quot;43808723-c6b8-8b39-0f9f-7f8f70b34465&quot;]"></div>
+				<div class="bar" data-w-id="43808723-c6b8-8b39-0f9f-7f8f70b34466" data-wf-id="[&quot;43808723-c6b8-8b39-0f9f-7f8f70b34466&quot;]"></div>
+				<div class="bar" data-w-id="43808723-c6b8-8b39-0f9f-7f8f70b34467" data-wf-id="[&quot;43808723-c6b8-8b39-0f9f-7f8f70b34467&quot;]"></div>
+				<div class="bar" data-w-id="43808723-c6b8-8b39-0f9f-7f8f70b34468" data-wf-id="[&quot;43808723-c6b8-8b39-0f9f-7f8f70b34468&quot;]"></div>
+				<div class="bar" data-w-id="43808723-c6b8-8b39-0f9f-7f8f70b34469" data-wf-id="[&quot;43808723-c6b8-8b39-0f9f-7f8f70b34469&quot;]"></div>
+			</div>
+		</div>
+		<div class="top-3-cell line" data-w-id="254893d2-95af-7d17-f44e-f8d897b58ac2" data-wf-id="[&quot;254893d2-95af-7d17-f44e-f8d897b58ac2&quot;]" id="w-node-_254893d2-95af-7d17-f44e-f8d897b58ac2-d83824ec">
+			<div class="_5-bar-text" data-w-id="254893d2-95af-7d17-f44e-f8d897b58ac3" data-wf-id="[&quot;254893d2-95af-7d17-f44e-f8d897b58ac3&quot;]">
+				Very Good
+			</div>
+			<div class="w-layout-hflex _5-bar" data-w-id="254893d2-95af-7d17-f44e-f8d897b58ac5" data-wf-id="[&quot;254893d2-95af-7d17-f44e-f8d897b58ac5&quot;]">
+				<div class="bar" data-w-id="254893d2-95af-7d17-f44e-f8d897b58ac6" data-wf-id="[&quot;254893d2-95af-7d17-f44e-f8d897b58ac6&quot;]"></div>
+				<div class="bar" data-w-id="254893d2-95af-7d17-f44e-f8d897b58ac7" data-wf-id="[&quot;254893d2-95af-7d17-f44e-f8d897b58ac7&quot;]"></div>
+				<div class="bar" data-w-id="254893d2-95af-7d17-f44e-f8d897b58ac8" data-wf-id="[&quot;254893d2-95af-7d17-f44e-f8d897b58ac8&quot;]"></div>
+				<div class="bar" data-w-id="254893d2-95af-7d17-f44e-f8d897b58ac9" data-wf-id="[&quot;254893d2-95af-7d17-f44e-f8d897b58ac9&quot;]"></div>
+				<div class="bar orange" data-w-id="254893d2-95af-7d17-f44e-f8d897b58aca" data-wf-id="[&quot;254893d2-95af-7d17-f44e-f8d897b58aca&quot;]"></div>
+			</div>
+		</div>
+		<div class="top-3-cell line right" data-w-id="19154839-e526-cd22-c01b-43114fc40747" data-wf-id="[&quot;19154839-e526-cd22-c01b-43114fc40747&quot;]" id="w-node-_19154839-e526-cd22-c01b-43114fc40747-d83824ec">
+			<div class="_5-bar-text" data-w-id="19154839-e526-cd22-c01b-43114fc40748" data-wf-id="[&quot;19154839-e526-cd22-c01b-43114fc40748&quot;]">
+				Excellent
+			</div>
+			<div class="w-layout-hflex _5-bar" data-w-id="19154839-e526-cd22-c01b-43114fc4074a" data-wf-id="[&quot;19154839-e526-cd22-c01b-43114fc4074a&quot;]">
+				<div class="bar" data-w-id="19154839-e526-cd22-c01b-43114fc4074b" data-wf-id="[&quot;19154839-e526-cd22-c01b-43114fc4074b&quot;]"></div>
+				<div class="bar" data-w-id="19154839-e526-cd22-c01b-43114fc4074c" data-wf-id="[&quot;19154839-e526-cd22-c01b-43114fc4074c&quot;]"></div>
+				<div class="bar" data-w-id="19154839-e526-cd22-c01b-43114fc4074d" data-wf-id="[&quot;19154839-e526-cd22-c01b-43114fc4074d&quot;]"></div>
+				<div class="bar" data-w-id="19154839-e526-cd22-c01b-43114fc4074e" data-wf-id="[&quot;19154839-e526-cd22-c01b-43114fc4074e&quot;]"></div>
+				<div class="bar" data-w-id="19154839-e526-cd22-c01b-43114fc4074f" data-wf-id="[&quot;19154839-e526-cd22-c01b-43114fc4074f&quot;]"></div>
+			</div>
+		</div>
+		<div class="top-3-cell line left" data-w-id="9501d4b1-13b3-50c3-092c-6dd4980063c8" data-wf-id="[&quot;9501d4b1-13b3-50c3-092c-6dd4980063c8&quot;]" id="w-node-_9501d4b1-13b3-50c3-092c-6dd4980063c8-d83824ec">
+			<div data-w-id="9501d4b1-13b3-50c3-092c-6dd4980063c9" data-wf-id="[&quot;9501d4b1-13b3-50c3-092c-6dd4980063c9&quot;]">
+				Easy to Use
+			</div>
+		</div>
+		<div class="top-3-cell line" data-w-id="44835662-5f16-bd7b-c3f9-6b796022e2a9" data-wf-id="[&quot;44835662-5f16-bd7b-c3f9-6b796022e2a9&quot;]" id="w-node-_44835662-5f16-bd7b-c3f9-6b796022e2a9-d83824ec">
+			<img alt="" class="top-3-image" data-w-id="31bcd25d-13e9-874d-df2e-848790498089" data-wf-id="[&quot;31bcd25d-13e9-874d-df2e-848790498089&quot;]" src="https://uploads-ssl.webflow.com/649dde332b9b5853a0794b13/650072cd4427be1510ce93a2_check.svg">
+		</div>
+		<div class="top-3-cell line" data-w-id="7f24ff85-a7cb-20ee-c2e8-49587b79ed77" data-wf-id="[&quot;7f24ff85-a7cb-20ee-c2e8-49587b79ed77&quot;]" id="w-node-_7f24ff85-a7cb-20ee-c2e8-49587b79ed77-d83824ec">
+			<img alt="" class="top-3-image" data-w-id="ba5f9d4e-904d-5737-0afb-b0ff8df7c6af" data-wf-id="[&quot;ba5f9d4e-904d-5737-0afb-b0ff8df7c6af&quot;]" src="https://uploads-ssl.webflow.com/649dde332b9b5853a0794b13/650072cd4427be1510ce93a2_check.svg">
+		</div>
+		<div class="top-3-cell line right" data-w-id="c7e95305-81f2-ebbd-47ff-429aa8465152" data-wf-id="[&quot;c7e95305-81f2-ebbd-47ff-429aa8465152&quot;]" id="w-node-c7e95305-81f2-ebbd-47ff-429aa8465152-d83824ec">
+			<img alt="" class="top-3-image" data-w-id="25e961dc-2f99-eb98-2ace-b502716b4f22" data-wf-id="[&quot;25e961dc-2f99-eb98-2ace-b502716b4f22&quot;]" height="11" src="https://uploads-ssl.webflow.com/649dde332b9b5853a0794b13/650072cda1aba0c2063a3432_X.svg">
+		</div>
+		<div class="top-3-cell break" data-w-id="bc0bef3f-1232-6a06-611e-619233f3ea2a" data-wf-id="[&quot;bc0bef3f-1232-6a06-611e-619233f3ea2a&quot;]" id="w-node-bc0bef3f-1232-6a06-611e-619233f3ea2a-d83824ec">
+			<div data-w-id="bc0bef3f-1232-6a06-611e-619233f3ea2b" data-wf-id="[&quot;bc0bef3f-1232-6a06-611e-619233f3ea2b&quot;]">
+				<strong data-w-id="87493efa-8ccb-7a39-6da9-2477572177c6" data-wf-id="[&quot;87493efa-8ccb-7a39-6da9-2477572177c6&quot;]">Security</strong>
+			</div>
+		</div>
+		<div class="top-3-cell line left" data-w-id="9d8e2c89-13f7-857b-0193-e7ac545a4455" data-wf-id="[&quot;9d8e2c89-13f7-857b-0193-e7ac545a4455&quot;]" id="w-node-_9d8e2c89-13f7-857b-0193-e7ac545a4455-d83824ec">
+			<div data-w-id="9d8e2c89-13f7-857b-0193-e7ac545a4456" data-wf-id="[&quot;9d8e2c89-13f7-857b-0193-e7ac545a4456&quot;]">
+				Kill Switch
+			</div>
+		</div>
+		<div class="top-3-cell line" data-w-id="4e66eef9-0804-0e2a-578a-bdd0830da56e" data-wf-id="[&quot;4e66eef9-0804-0e2a-578a-bdd0830da56e&quot;]" id="w-node-_4e66eef9-0804-0e2a-578a-bdd0830da56e-d83824ec">
+			<img alt="" class="top-3-image" data-w-id="4e66eef9-0804-0e2a-578a-bdd0830da56f" data-wf-id="[&quot;4e66eef9-0804-0e2a-578a-bdd0830da56f&quot;]" src="https://uploads-ssl.webflow.com/649dde332b9b5853a0794b13/650072cd4427be1510ce93a2_check.svg">
+		</div>
+		<div class="top-3-cell line" data-w-id="2ab5eefc-6cb5-5f5e-a844-ba61f7496ded" data-wf-id="[&quot;2ab5eefc-6cb5-5f5e-a844-ba61f7496ded&quot;]" id="w-node-_2ab5eefc-6cb5-5f5e-a844-ba61f7496ded-d83824ec">
+			<img alt="" class="top-3-image" data-w-id="2ab5eefc-6cb5-5f5e-a844-ba61f7496dee" data-wf-id="[&quot;2ab5eefc-6cb5-5f5e-a844-ba61f7496dee&quot;]" src="https://uploads-ssl.webflow.com/649dde332b9b5853a0794b13/650072cd4427be1510ce93a2_check.svg">
+		</div>
+		<div class="top-3-cell line right" data-w-id="c4785b9d-a1f6-6026-def1-99dd075bca76" data-wf-id="[&quot;c4785b9d-a1f6-6026-def1-99dd075bca76&quot;]" id="w-node-c4785b9d-a1f6-6026-def1-99dd075bca76-d83824ec">
+			<img alt="" class="top-3-image" data-w-id="c4785b9d-a1f6-6026-def1-99dd075bca77" data-wf-id="[&quot;c4785b9d-a1f6-6026-def1-99dd075bca77&quot;]" src="https://uploads-ssl.webflow.com/649dde332b9b5853a0794b13/650072cd4427be1510ce93a2_check.svg">
+		</div>
+		<div class="top-3-cell line left" data-w-id="1df2fa74-35b3-da42-6cc2-10d2f7d85905" data-wf-id="[&quot;1df2fa74-35b3-da42-6cc2-10d2f7d85905&quot;]" id="w-node-_1df2fa74-35b3-da42-6cc2-10d2f7d85905-d83824ec">
+			<div data-w-id="1df2fa74-35b3-da42-6cc2-10d2f7d85906" data-wf-id="[&quot;1df2fa74-35b3-da42-6cc2-10d2f7d85906&quot;]">
+				Wi-Fi Protection
+			</div>
+		</div>
+		<div class="top-3-cell line" data-w-id="8fdb6cae-6cc1-e534-c66b-4a0303684df3" data-wf-id="[&quot;8fdb6cae-6cc1-e534-c66b-4a0303684df3&quot;]" id="w-node-_8fdb6cae-6cc1-e534-c66b-4a0303684df3-d83824ec">
+			<img alt="" class="top-3-image" data-w-id="8fdb6cae-6cc1-e534-c66b-4a0303684df4" data-wf-id="[&quot;8fdb6cae-6cc1-e534-c66b-4a0303684df4&quot;]" src="https://uploads-ssl.webflow.com/649dde332b9b5853a0794b13/650072cd4427be1510ce93a2_check.svg">
+		</div>
+		<div class="top-3-cell line" data-w-id="771a4b5d-04fc-a485-9966-3a6312cb5c21" data-wf-id="[&quot;771a4b5d-04fc-a485-9966-3a6312cb5c21&quot;]" id="w-node-_771a4b5d-04fc-a485-9966-3a6312cb5c21-d83824ec">
+			<img alt="" class="top-3-image" data-w-id="771a4b5d-04fc-a485-9966-3a6312cb5c22" data-wf-id="[&quot;771a4b5d-04fc-a485-9966-3a6312cb5c22&quot;]" src="https://uploads-ssl.webflow.com/649dde332b9b5853a0794b13/650072cd4427be1510ce93a2_check.svg">
+		</div>
+		<div class="top-3-cell line right" data-w-id="47b6b9aa-baf1-f844-d61e-f4f0b364466c" data-wf-id="[&quot;47b6b9aa-baf1-f844-d61e-f4f0b364466c&quot;]" id="w-node-_47b6b9aa-baf1-f844-d61e-f4f0b364466c-d83824ec">
+			<img alt="" class="top-3-image" data-w-id="47b6b9aa-baf1-f844-d61e-f4f0b364466d" data-wf-id="[&quot;47b6b9aa-baf1-f844-d61e-f4f0b364466d&quot;]" src="https://uploads-ssl.webflow.com/649dde332b9b5853a0794b13/650072cd4427be1510ce93a2_check.svg">
+		</div>
+		<div class="top-3-cell line left" data-w-id="a549d952-2714-8a72-928f-73d33f6df902" data-wf-id="[&quot;a549d952-2714-8a72-928f-73d33f6df902&quot;]" id="w-node-a549d952-2714-8a72-928f-73d33f6df902-d83824ec">
+			<div data-w-id="a549d952-2714-8a72-928f-73d33f6df903" data-wf-id="[&quot;a549d952-2714-8a72-928f-73d33f6df903&quot;]">
+				Encryption
+			</div>
+		</div>
+		<div class="top-3-cell line" data-w-id="e70068c4-3ce7-b548-b561-ba06813f436b" data-wf-id="[&quot;e70068c4-3ce7-b548-b561-ba06813f436b&quot;]" id="w-node-e70068c4-3ce7-b548-b561-ba06813f436b-d83824ec">
+			<div class="_5-bar-text" data-w-id="22f726b0-428b-86b5-004b-052ba5e449fc" data-wf-id="[&quot;22f726b0-428b-86b5-004b-052ba5e449fc&quot;]">
+				Military-Grade Encryption
+			</div>
+		</div>
+		<div class="top-3-cell line" data-w-id="2d57cf67-57ba-6c6d-d038-d3e4e3a81a58" data-wf-id="[&quot;2d57cf67-57ba-6c6d-d038-d3e4e3a81a58&quot;]" id="w-node-_2d57cf67-57ba-6c6d-d038-d3e4e3a81a58-d83824ec">
+			<div class="_5-bar-text" data-w-id="98540444-913c-c267-ceba-9e532f8114cf" data-wf-id="[&quot;98540444-913c-c267-ceba-9e532f8114cf&quot;]">
+				AES-256-GCM Encryption
+			</div>
+		</div>
+		<div class="top-3-cell line right" data-w-id="baa81072-a1f2-3d9e-b5a2-a81d98189dbd" data-wf-id="[&quot;baa81072-a1f2-3d9e-b5a2-a81d98189dbd&quot;]" id="w-node-baa81072-a1f2-3d9e-b5a2-a81d98189dbd-d83824ec">
+			<div class="_5-bar-text" data-w-id="bb4701ee-5be3-af18-1369-c41863e13a1f" data-wf-id="[&quot;bb4701ee-5be3-af18-1369-c41863e13a1f&quot;]">
+				Encryption - AES-256 Encryption
+			</div>
+		</div>
+		<div class="top-3-cell break" data-w-id="9b0f14c2-9a85-aa9c-feef-ff9fd2f195b2" data-wf-id="[&quot;9b0f14c2-9a85-aa9c-feef-ff9fd2f195b2&quot;]" id="w-node-_9b0f14c2-9a85-aa9c-feef-ff9fd2f195b2-d83824ec">
+			<div data-w-id="9b0f14c2-9a85-aa9c-feef-ff9fd2f195b3" data-wf-id="[&quot;9b0f14c2-9a85-aa9c-feef-ff9fd2f195b3&quot;]">
+				<strong data-w-id="9b0f14c2-9a85-aa9c-feef-ff9fd2f195b4" data-wf-id="[&quot;9b0f14c2-9a85-aa9c-feef-ff9fd2f195b4&quot;]">Privacy</strong>
+			</div>
+		</div>
+		<div class="top-3-cell line left" data-w-id="04c574f8-602e-8dd8-a9e3-4ee421a3aee3" data-wf-id="[&quot;04c574f8-602e-8dd8-a9e3-4ee421a3aee3&quot;]" id="w-node-_04c574f8-602e-8dd8-a9e3-4ee421a3aee3-d83824ec">
+			<div data-w-id="04c574f8-602e-8dd8-a9e3-4ee421a3aee4" data-wf-id="[&quot;04c574f8-602e-8dd8-a9e3-4ee421a3aee4&quot;]">
+				Keep Your IP Private
+			</div>
+		</div>
+		<div class="top-3-cell line" data-w-id="bf43e6f5-419f-5ee3-c6dc-2976e0e30de4" data-wf-id="[&quot;bf43e6f5-419f-5ee3-c6dc-2976e0e30de4&quot;]" id="w-node-bf43e6f5-419f-5ee3-c6dc-2976e0e30de4-d83824ec">
+			<img alt="" class="top-3-image" data-w-id="bf43e6f5-419f-5ee3-c6dc-2976e0e30de5" data-wf-id="[&quot;bf43e6f5-419f-5ee3-c6dc-2976e0e30de5&quot;]" src="https://uploads-ssl.webflow.com/649dde332b9b5853a0794b13/650072cd4427be1510ce93a2_check.svg">
+		</div>
+		<div class="top-3-cell line" data-w-id="74514e20-de13-787e-33da-3f956c6cfdca" data-wf-id="[&quot;74514e20-de13-787e-33da-3f956c6cfdca&quot;]" id="w-node-_74514e20-de13-787e-33da-3f956c6cfdca-d83824ec">
+			<img alt="" class="top-3-image" data-w-id="74514e20-de13-787e-33da-3f956c6cfdcb" data-wf-id="[&quot;74514e20-de13-787e-33da-3f956c6cfdcb&quot;]" src="https://uploads-ssl.webflow.com/649dde332b9b5853a0794b13/650072cd4427be1510ce93a2_check.svg">
+		</div>
+		<div class="top-3-cell line right" data-w-id="6995b552-a897-5c85-4b0c-42d459c501a7" data-wf-id="[&quot;6995b552-a897-5c85-4b0c-42d459c501a7&quot;]" id="w-node-_6995b552-a897-5c85-4b0c-42d459c501a7-d83824ec">
+			<img alt="" class="top-3-image" data-w-id="6995b552-a897-5c85-4b0c-42d459c501a8" data-wf-id="[&quot;6995b552-a897-5c85-4b0c-42d459c501a8&quot;]" src="https://uploads-ssl.webflow.com/649dde332b9b5853a0794b13/650072cd4427be1510ce93a2_check.svg">
+		</div>
+		<div class="top-3-cell line left" data-w-id="a86b5278-73e8-1aba-c297-708257e36d82" data-wf-id="[&quot;a86b5278-73e8-1aba-c297-708257e36d82&quot;]" id="w-node-a86b5278-73e8-1aba-c297-708257e36d82-d83824ec">
+			<div data-w-id="a86b5278-73e8-1aba-c297-708257e36d83" data-wf-id="[&quot;a86b5278-73e8-1aba-c297-708257e36d83&quot;]">
+				No Logs Policy
+			</div>
+		</div>
+		<div class="top-3-cell line" data-w-id="58998217-cd06-3e3b-0ca6-37c274291ea4" data-wf-id="[&quot;58998217-cd06-3e3b-0ca6-37c274291ea4&quot;]" id="w-node-_58998217-cd06-3e3b-0ca6-37c274291ea4-d83824ec">
+			<img alt="" class="top-3-image" data-w-id="58998217-cd06-3e3b-0ca6-37c274291ea5" data-wf-id="[&quot;58998217-cd06-3e3b-0ca6-37c274291ea5&quot;]" src="https://uploads-ssl.webflow.com/649dde332b9b5853a0794b13/650072cd4427be1510ce93a2_check.svg">
+		</div>
+		<div class="top-3-cell line" data-w-id="b4fdc876-dd48-1cfa-bdfb-d5668e5bfa0e" data-wf-id="[&quot;b4fdc876-dd48-1cfa-bdfb-d5668e5bfa0e&quot;]" id="w-node-b4fdc876-dd48-1cfa-bdfb-d5668e5bfa0e-d83824ec">
+			<img alt="" class="top-3-image" data-w-id="b4fdc876-dd48-1cfa-bdfb-d5668e5bfa0f" data-wf-id="[&quot;b4fdc876-dd48-1cfa-bdfb-d5668e5bfa0f&quot;]" src="https://uploads-ssl.webflow.com/649dde332b9b5853a0794b13/650072cd4427be1510ce93a2_check.svg">
+		</div>
+		<div class="top-3-cell line right" data-w-id="7751434b-72af-025a-70b9-5d553c13eb9c" data-wf-id="[&quot;7751434b-72af-025a-70b9-5d553c13eb9c&quot;]" id="w-node-_7751434b-72af-025a-70b9-5d553c13eb9c-d83824ec">
+			<img alt="" class="top-3-image" data-w-id="7751434b-72af-025a-70b9-5d553c13eb9d" data-wf-id="[&quot;7751434b-72af-025a-70b9-5d553c13eb9d&quot;]" src="https://uploads-ssl.webflow.com/649dde332b9b5853a0794b13/650072cd4427be1510ce93a2_check.svg">
+		</div>
+		<div class="top-3-cell line left" data-w-id="e58d5354-98ce-7a4a-d2d9-c3df40a967b0" data-wf-id="[&quot;e58d5354-98ce-7a4a-d2d9-c3df40a967b0&quot;]" id="w-node-e58d5354-98ce-7a4a-d2d9-c3df40a967b0-d83824ec">
+			<div data-w-id="e58d5354-98ce-7a4a-d2d9-c3df40a967b1" data-wf-id="[&quot;e58d5354-98ce-7a4a-d2d9-c3df40a967b1&quot;]">
+				Open Source VPN
+			</div>
+		</div>
+		<div class="top-3-cell line" data-w-id="690b6723-d1a0-e6b7-79fc-545aa2485b67" data-wf-id="[&quot;690b6723-d1a0-e6b7-79fc-545aa2485b67&quot;]" id="w-node-_690b6723-d1a0-e6b7-79fc-545aa2485b67-d83824ec">
+			<img alt="" class="top-3-image" data-w-id="690b6723-d1a0-e6b7-79fc-545aa2485b68" data-wf-id="[&quot;690b6723-d1a0-e6b7-79fc-545aa2485b68&quot;]" src="https://uploads-ssl.webflow.com/649dde332b9b5853a0794b13/650072cd4427be1510ce93a2_check.svg">
+		</div>
+		<div class="top-3-cell line" data-w-id="f593bf3a-4d59-22e0-de49-d6d7d0e2828f" data-wf-id="[&quot;f593bf3a-4d59-22e0-de49-d6d7d0e2828f&quot;]" id="w-node-f593bf3a-4d59-22e0-de49-d6d7d0e2828f-d83824ec">
+			<img alt="" class="top-3-image" data-w-id="f593bf3a-4d59-22e0-de49-d6d7d0e28290" data-wf-id="[&quot;f593bf3a-4d59-22e0-de49-d6d7d0e28290&quot;]" height="11" src="https://uploads-ssl.webflow.com/649dde332b9b5853a0794b13/650072cda1aba0c2063a3432_X.svg" width="5">
+		</div>
+		<div class="top-3-cell line right" data-w-id="1ec884f3-455c-3e85-caff-beb2a366b598" data-wf-id="[&quot;1ec884f3-455c-3e85-caff-beb2a366b598&quot;]" id="w-node-_1ec884f3-455c-3e85-caff-beb2a366b598-d83824ec">
+			<img alt="" class="top-3-image" data-w-id="27d349fe-055c-d02c-b02b-1bac4438092c" data-wf-id="[&quot;27d349fe-055c-d02c-b02b-1bac4438092c&quot;]" height="11" src="https://uploads-ssl.webflow.com/649dde332b9b5853a0794b13/650072cda1aba0c2063a3432_X.svg">
+		</div>
+		<div class="top-3-cell break" data-w-id="ccb82f1d-b666-fddf-1bed-64734a923da6" data-wf-id="[&quot;ccb82f1d-b666-fddf-1bed-64734a923da6&quot;]" id="w-node-ccb82f1d-b666-fddf-1bed-64734a923da6-d83824ec">
+			<div data-w-id="ccb82f1d-b666-fddf-1bed-64734a923da7" data-wf-id="[&quot;ccb82f1d-b666-fddf-1bed-64734a923da7&quot;]">
+				<strong data-w-id="ccb82f1d-b666-fddf-1bed-64734a923da8" data-wf-id="[&quot;ccb82f1d-b666-fddf-1bed-64734a923da8&quot;]">Coverage</strong>
+			</div>
+		</div>
+		<div class="top-3-cell line left" data-w-id="723814e7-6a63-ee89-f9ed-d0639d327e63" data-wf-id="[&quot;723814e7-6a63-ee89-f9ed-d0639d327e63&quot;]" id="w-node-_723814e7-6a63-ee89-f9ed-d0639d327e63-d83824ec">
+			<div data-w-id="723814e7-6a63-ee89-f9ed-d0639d327e64" data-wf-id="[&quot;723814e7-6a63-ee89-f9ed-d0639d327e64&quot;]">
+				Devices
+			</div>
+		</div>
+		<div class="top-3-cell line" data-w-id="5f118b5b-3b4f-5dfe-0671-8886b0590c9c" data-wf-id="[&quot;5f118b5b-3b4f-5dfe-0671-8886b0590c9c&quot;]" id="w-node-_5f118b5b-3b4f-5dfe-0671-8886b0590c9c-d83824ec">
+			<div class="_5-bar-text" data-w-id="5f118b5b-3b4f-5dfe-0671-8886b0590c9d" data-wf-id="[&quot;5f118b5b-3b4f-5dfe-0671-8886b0590c9d&quot;]">
+				6
+			</div>
+		</div>
+		<div class="top-3-cell line" data-w-id="2e48930e-7568-bdc7-3f76-8706079cf26e" data-wf-id="[&quot;2e48930e-7568-bdc7-3f76-8706079cf26e&quot;]" id="w-node-_2e48930e-7568-bdc7-3f76-8706079cf26e-d83824ec">
+			<div class="_5-bar-text" data-w-id="2e48930e-7568-bdc7-3f76-8706079cf26f" data-wf-id="[&quot;2e48930e-7568-bdc7-3f76-8706079cf26f&quot;]">
+				Unlimited
+			</div>
+		</div>
+		<div class="top-3-cell line right" data-w-id="b9a566e1-0d62-ae0b-e0aa-1b5f65b356ce" data-wf-id="[&quot;b9a566e1-0d62-ae0b-e0aa-1b5f65b356ce&quot;]" id="w-node-b9a566e1-0d62-ae0b-e0aa-1b5f65b356ce-d83824ec">
+			<div class="_5-bar-text" data-w-id="b9a566e1-0d62-ae0b-e0aa-1b5f65b356cf" data-wf-id="[&quot;b9a566e1-0d62-ae0b-e0aa-1b5f65b356cf&quot;]">
+				Unlimited
+			</div>
+		</div>
+		<div class="top-3-cell line left" data-w-id="d9451685-8a62-5ba9-229b-fd1e05006fa5" data-wf-id="[&quot;d9451685-8a62-5ba9-229b-fd1e05006fa5&quot;]" id="w-node-d9451685-8a62-5ba9-229b-fd1e05006fa5-d83824ec">
+			<div data-w-id="d9451685-8a62-5ba9-229b-fd1e05006fa6" data-wf-id="[&quot;d9451685-8a62-5ba9-229b-fd1e05006fa6&quot;]">
+				No. of Servers
+			</div>
+		</div>
+		<div class="top-3-cell line" data-w-id="520682cb-6cea-353d-102f-aeb19baaad44" data-wf-id="[&quot;520682cb-6cea-353d-102f-aeb19baaad44&quot;]" id="w-node-_520682cb-6cea-353d-102f-aeb19baaad44-d83824ec">
+			<div class="_5-bar-text" data-w-id="520682cb-6cea-353d-102f-aeb19baaad45" data-wf-id="[&quot;520682cb-6cea-353d-102f-aeb19baaad45&quot;]">
+				5,500+
+			</div>
+		</div>
+		<div class="top-3-cell line" data-w-id="587fc258-e014-32a5-278b-f309d691a9ec" data-wf-id="[&quot;587fc258-e014-32a5-278b-f309d691a9ec&quot;]" id="w-node-_587fc258-e014-32a5-278b-f309d691a9ec-d83824ec">
+			<div class="_5-bar-text" data-w-id="587fc258-e014-32a5-278b-f309d691a9ed" data-wf-id="[&quot;587fc258-e014-32a5-278b-f309d691a9ed&quot;]">
+				3,200+
+			</div>
+		</div>
+		<div class="top-3-cell line right" data-w-id="e5221075-4db3-7d19-c55f-4ba2baffcc5e" data-wf-id="[&quot;e5221075-4db3-7d19-c55f-4ba2baffcc5e&quot;]" id="w-node-e5221075-4db3-7d19-c55f-4ba2baffcc5e-d83824ec">
+			<div class="_5-bar-text" data-w-id="e5221075-4db3-7d19-c55f-4ba2baffcc5f" data-wf-id="[&quot;e5221075-4db3-7d19-c55f-4ba2baffcc5f&quot;]">
+				2,000+
+			</div>
+		</div>
+		<div class="top-3-cell line left" data-w-id="350eae1c-c39b-9a88-0e56-7208ac5f0874" data-wf-id="[&quot;350eae1c-c39b-9a88-0e56-7208ac5f0874&quot;]" id="w-node-_350eae1c-c39b-9a88-0e56-7208ac5f0874-d83824ec">
+			<div data-w-id="350eae1c-c39b-9a88-0e56-7208ac5f0875" data-wf-id="[&quot;350eae1c-c39b-9a88-0e56-7208ac5f0875&quot;]">
+				Countries
+			</div>
+		</div>
+		<div class="top-3-cell line" data-w-id="3d30ff79-723c-d4d1-2a2e-ce890bbc195c" data-wf-id="[&quot;3d30ff79-723c-d4d1-2a2e-ce890bbc195c&quot;]" id="w-node-_3d30ff79-723c-d4d1-2a2e-ce890bbc195c-d83824ec">
+			<div class="_5-bar-text" data-w-id="3d30ff79-723c-d4d1-2a2e-ce890bbc195d" data-wf-id="[&quot;3d30ff79-723c-d4d1-2a2e-ce890bbc195d&quot;]">
+				59
+			</div>
+		</div>
+		<div class="top-3-cell line" data-w-id="98699714-7171-2d63-ec80-8bfe331d240c" data-wf-id="[&quot;98699714-7171-2d63-ec80-8bfe331d240c&quot;]" id="w-node-_98699714-7171-2d63-ec80-8bfe331d240c-d83824ec">
+			<div class="_5-bar-text" data-w-id="98699714-7171-2d63-ec80-8bfe331d240d" data-wf-id="[&quot;98699714-7171-2d63-ec80-8bfe331d240d&quot;]">
+				65
+			</div>
+		</div>
+		<div class="top-3-cell line right" data-w-id="06d6b81f-7b43-a423-c4d5-7843876e5690" data-wf-id="[&quot;06d6b81f-7b43-a423-c4d5-7843876e5690&quot;]" id="w-node-_06d6b81f-7b43-a423-c4d5-7843876e5690-d83824ec">
+			<div class="_5-bar-text" data-w-id="06d6b81f-7b43-a423-c4d5-7843876e5691" data-wf-id="[&quot;06d6b81f-7b43-a423-c4d5-7843876e5691&quot;]">
+				75+
+			</div>
+		</div>
+		<div class="top-3-cell break" data-w-id="8d995606-46b8-a0f3-be7e-d9afc45e4eef" data-wf-id="[&quot;8d995606-46b8-a0f3-be7e-d9afc45e4eef&quot;]" id="w-node-_8d995606-46b8-a0f3-be7e-d9afc45e4eef-d83824ec">
+			<div data-w-id="8d995606-46b8-a0f3-be7e-d9afc45e4ef0" data-wf-id="[&quot;8d995606-46b8-a0f3-be7e-d9afc45e4ef0&quot;]">
+				<strong data-w-id="8d995606-46b8-a0f3-be7e-d9afc45e4ef1" data-wf-id="[&quot;8d995606-46b8-a0f3-be7e-d9afc45e4ef1&quot;]">Purchasing</strong>
+			</div>
+		</div>
+		<div class="top-3-cell line left" data-w-id="5e6f3ff8-4f26-968a-5ece-c8b1d6b36648" data-wf-id="[&quot;5e6f3ff8-4f26-968a-5ece-c8b1d6b36648&quot;]" id="w-node-_5e6f3ff8-4f26-968a-5ece-c8b1d6b36648-d83824ec">
+			<div data-w-id="5e6f3ff8-4f26-968a-5ece-c8b1d6b36649" data-wf-id="[&quot;5e6f3ff8-4f26-968a-5ece-c8b1d6b36649&quot;]">
+				Support
+			</div>
+		</div>
+		<div class="top-3-cell line" data-w-id="26198460-a7a4-e5bd-d1b8-26d4bab1d10f" data-wf-id="[&quot;26198460-a7a4-e5bd-d1b8-26d4bab1d10f&quot;]" id="w-node-_26198460-a7a4-e5bd-d1b8-26d4bab1d10f-d83824ec">
+			<img alt="" class="top-3-image" data-w-id="26198460-a7a4-e5bd-d1b8-26d4bab1d110" data-wf-id="[&quot;26198460-a7a4-e5bd-d1b8-26d4bab1d110&quot;]" src="https://uploads-ssl.webflow.com/649dde332b9b5853a0794b13/650072cd4427be1510ce93a2_check.svg">
+		</div>
+		<div class="top-3-cell line" data-w-id="debe0351-168c-5837-0507-73f459fa4bae" data-wf-id="[&quot;debe0351-168c-5837-0507-73f459fa4bae&quot;]" id="w-node-debe0351-168c-5837-0507-73f459fa4bae-d83824ec">
+			<img alt="" class="top-3-image" data-w-id="debe0351-168c-5837-0507-73f459fa4baf" data-wf-id="[&quot;debe0351-168c-5837-0507-73f459fa4baf&quot;]" src="https://uploads-ssl.webflow.com/649dde332b9b5853a0794b13/650072cd4427be1510ce93a2_check.svg">
+		</div>
+		<div class="top-3-cell line right" data-w-id="fb3afb00-f435-35bd-1390-e80dc4620e7a" data-wf-id="[&quot;fb3afb00-f435-35bd-1390-e80dc4620e7a&quot;]" id="w-node-fb3afb00-f435-35bd-1390-e80dc4620e7a-d83824ec">
+			<img alt="" class="top-3-image" data-w-id="fb3afb00-f435-35bd-1390-e80dc4620e7b" data-wf-id="[&quot;fb3afb00-f435-35bd-1390-e80dc4620e7b&quot;]" src="https://uploads-ssl.webflow.com/649dde332b9b5853a0794b13/650072cd4427be1510ce93a2_check.svg">
+		</div>
+		<div class="top-3-cell line left" data-w-id="6f5f78f9-f888-de12-4382-de86feea728d" data-wf-id="[&quot;6f5f78f9-f888-de12-4382-de86feea728d&quot;]" id="w-node-_6f5f78f9-f888-de12-4382-de86feea728d-d83824ec">
+			<div data-w-id="6f5f78f9-f888-de12-4382-de86feea728e" data-wf-id="[&quot;6f5f78f9-f888-de12-4382-de86feea728e&quot;]">
+				Money Back
+			</div>
+		</div>
+		<div class="top-3-cell line" data-w-id="a2916db0-2cac-591b-ae6e-9a340ec89c56" data-wf-id="[&quot;a2916db0-2cac-591b-ae6e-9a340ec89c56&quot;]" id="w-node-a2916db0-2cac-591b-ae6e-9a340ec89c56-d83824ec">
+			<div class="_5-bar-text" data-w-id="a2916db0-2cac-591b-ae6e-9a340ec89c57" data-wf-id="[&quot;a2916db0-2cac-591b-ae6e-9a340ec89c57&quot;]">
+				30 Days
+			</div>
+		</div>
+		<div class="top-3-cell line" data-w-id="e3282cec-c332-be84-dbdb-17884c962948" data-wf-id="[&quot;e3282cec-c332-be84-dbdb-17884c962948&quot;]" id="w-node-e3282cec-c332-be84-dbdb-17884c962948-d83824ec">
+			<div class="_5-bar-text" data-w-id="e3282cec-c332-be84-dbdb-17884c962949" data-wf-id="[&quot;e3282cec-c332-be84-dbdb-17884c962949&quot;]">
+				30 Days
+			</div>
+		</div>
+		<div class="top-3-cell line right" data-w-id="661bedb9-0203-4dd8-18ee-efd165047d60" data-wf-id="[&quot;661bedb9-0203-4dd8-18ee-efd165047d60&quot;]" id="w-node-_661bedb9-0203-4dd8-18ee-efd165047d60-d83824ec">
+			<div class="_5-bar-text" data-w-id="661bedb9-0203-4dd8-18ee-efd165047d61" data-wf-id="[&quot;661bedb9-0203-4dd8-18ee-efd165047d61&quot;]">
+				30 Days
+			</div>
+		</div>
+		<div class="top-3-cell line left" data-w-id="5d79d592-dc37-e2d3-c18e-7b6971bad05e" data-wf-id="[&quot;5d79d592-dc37-e2d3-c18e-7b6971bad05e&quot;]" id="w-node-_5d79d592-dc37-e2d3-c18e-7b6971bad05e-d83824ec">
+			<div data-w-id="5d79d592-dc37-e2d3-c18e-7b6971bad05f" data-wf-id="[&quot;5d79d592-dc37-e2d3-c18e-7b6971bad05f&quot;]">
+				Value for Money
+			</div>
+		</div>
+		<div class="top-3-cell line" data-w-id="37b415f1-5905-5c06-d319-669680314afc" data-wf-id="[&quot;37b415f1-5905-5c06-d319-669680314afc&quot;]" id="w-node-_37b415f1-5905-5c06-d319-669680314afc-d83824ec">
+			<div class="_5-bar-text" data-w-id="37b415f1-5905-5c06-d319-669680314afd" data-wf-id="[&quot;37b415f1-5905-5c06-d319-669680314afd&quot;]">
+				<strong data-w-id="56f4bb0d-5197-d78c-5076-38ad7fe178b0" data-wf-id="[&quot;56f4bb0d-5197-d78c-5076-38ad7fe178b0&quot;]">Best Deal</strong>
+			</div>
+			<div class="w-layout-hflex _5-bar" data-w-id="37b415f1-5905-5c06-d319-669680314aff" data-wf-id="[&quot;37b415f1-5905-5c06-d319-669680314aff&quot;]">
+				<div class="bar" data-w-id="37b415f1-5905-5c06-d319-669680314b00" data-wf-id="[&quot;37b415f1-5905-5c06-d319-669680314b00&quot;]"></div>
+				<div class="bar" data-w-id="37b415f1-5905-5c06-d319-669680314b01" data-wf-id="[&quot;37b415f1-5905-5c06-d319-669680314b01&quot;]"></div>
+				<div class="bar" data-w-id="37b415f1-5905-5c06-d319-669680314b02" data-wf-id="[&quot;37b415f1-5905-5c06-d319-669680314b02&quot;]"></div>
+				<div class="bar" data-w-id="37b415f1-5905-5c06-d319-669680314b03" data-wf-id="[&quot;37b415f1-5905-5c06-d319-669680314b03&quot;]"></div>
+				<div class="bar" data-w-id="37b415f1-5905-5c06-d319-669680314b04" data-wf-id="[&quot;37b415f1-5905-5c06-d319-669680314b04&quot;]"></div>
+			</div>
+		</div>
+		<div class="top-3-cell line" data-w-id="c264e89a-d297-459c-22b3-abc03db10297" data-wf-id="[&quot;c264e89a-d297-459c-22b3-abc03db10297&quot;]" id="w-node-c264e89a-d297-459c-22b3-abc03db10297-d83824ec">
+			<div class="_5-bar-text" data-w-id="c264e89a-d297-459c-22b3-abc03db10298" data-wf-id="[&quot;c264e89a-d297-459c-22b3-abc03db10298&quot;]">
+				Moderate
+			</div>
+			<div class="w-layout-hflex _5-bar" data-w-id="c264e89a-d297-459c-22b3-abc03db1029a" data-wf-id="[&quot;c264e89a-d297-459c-22b3-abc03db1029a&quot;]">
+				<div class="bar" data-w-id="c264e89a-d297-459c-22b3-abc03db1029b" data-wf-id="[&quot;c264e89a-d297-459c-22b3-abc03db1029b&quot;]"></div>
+				<div class="bar" data-w-id="c264e89a-d297-459c-22b3-abc03db1029c" data-wf-id="[&quot;c264e89a-d297-459c-22b3-abc03db1029c&quot;]"></div>
+				<div class="bar" data-w-id="c264e89a-d297-459c-22b3-abc03db1029d" data-wf-id="[&quot;c264e89a-d297-459c-22b3-abc03db1029d&quot;]"></div>
+				<div class="bar" data-w-id="c264e89a-d297-459c-22b3-abc03db1029e" data-wf-id="[&quot;c264e89a-d297-459c-22b3-abc03db1029e&quot;]"></div>
+				<div class="bar orange" data-w-id="c264e89a-d297-459c-22b3-abc03db1029f" data-wf-id="[&quot;c264e89a-d297-459c-22b3-abc03db1029f&quot;]"></div>
+			</div>
+		</div>
+		<div class="top-3-cell line right" data-w-id="1f08e1ba-6ff3-3fd9-ffbc-464141ef0d0c" data-wf-id="[&quot;1f08e1ba-6ff3-3fd9-ffbc-464141ef0d0c&quot;]" id="w-node-_1f08e1ba-6ff3-3fd9-ffbc-464141ef0d0c-d83824ec">
+			<div class="_5-bar-text" data-w-id="1f08e1ba-6ff3-3fd9-ffbc-464141ef0d0d" data-wf-id="[&quot;1f08e1ba-6ff3-3fd9-ffbc-464141ef0d0d&quot;]">
+				Good
+			</div>
+			<div class="w-layout-hflex _5-bar" data-w-id="1f08e1ba-6ff3-3fd9-ffbc-464141ef0d0f" data-wf-id="[&quot;1f08e1ba-6ff3-3fd9-ffbc-464141ef0d0f&quot;]">
+				<div class="bar" data-w-id="1f08e1ba-6ff3-3fd9-ffbc-464141ef0d10" data-wf-id="[&quot;1f08e1ba-6ff3-3fd9-ffbc-464141ef0d10&quot;]"></div>
+				<div class="bar" data-w-id="1f08e1ba-6ff3-3fd9-ffbc-464141ef0d11" data-wf-id="[&quot;1f08e1ba-6ff3-3fd9-ffbc-464141ef0d11&quot;]"></div>
+				<div class="bar" data-w-id="1f08e1ba-6ff3-3fd9-ffbc-464141ef0d12" data-wf-id="[&quot;1f08e1ba-6ff3-3fd9-ffbc-464141ef0d12&quot;]"></div>
+				<div class="bar" data-w-id="1f08e1ba-6ff3-3fd9-ffbc-464141ef0d13" data-wf-id="[&quot;1f08e1ba-6ff3-3fd9-ffbc-464141ef0d13&quot;]"></div>
+				<div class="bar" data-w-id="1f08e1ba-6ff3-3fd9-ffbc-464141ef0d14" data-wf-id="[&quot;1f08e1ba-6ff3-3fd9-ffbc-464141ef0d14&quot;]"></div>
+			</div>
+		</div>
+		<div class="top-3-cell" data-w-id="5ed87f73-99bc-1977-68e3-7e22535b7069" data-wf-id="[&quot;5ed87f73-99bc-1977-68e3-7e22535b7069&quot;]" id="w-node-_5ed87f73-99bc-1977-68e3-7e22535b7069-d83824ec"></div>
+		<div class="top-3-cell line bottom" data-w-id="9b36b0b7-4aa1-543f-5815-06c90acef15c" data-wf-id="[&quot;9b36b0b7-4aa1-543f-5815-06c90acef15c&quot;]" id="w-node-_9b36b0b7-4aa1-543f-5815-06c90acef15c-d83824ec">
+			<a class="primary-button best ad alt w-button" data-w-id="c540b2f1-436f-1b6f-5d8b-d98e6d9faf18" data-wf-id="[&quot;c540b2f1-436f-1b6f-5d8b-d98e6d9faf18&quot;]" href="https://go.nordvpn.net/aff_c?offer_id=15&amp;aff_id=92221">Go to site</a>
+		</div>
+		<div class="top-3-cell line bottom right" data-w-id="a949c465-4a99-d18d-cb1e-8337da7bcd08" data-wf-id="[&quot;a949c465-4a99-d18d-cb1e-8337da7bcd08&quot;]" id="w-node-a949c465-4a99-d18d-cb1e-8337da7bcd08-d83824ec">
+			<a class="primary-button best ad alt w-button" data-w-id="33a5a3a7-c3fa-d728-fb92-9d2384a9ed8a" data-wf-id="[&quot;33a5a3a7-c3fa-d728-fb92-9d2384a9ed8a&quot;]" href="https://get.surfshark.net/aff_c?offer_id=926&amp;aff_id=24913">Go to site</a>
+		</div>
+		<div class="top-3-cell" data-w-id="489444bb-1c20-7987-d837-b59de1a2315a" data-wf-id="[&quot;489444bb-1c20-7987-d837-b59de1a2315a&quot;]" id="w-node-_489444bb-1c20-7987-d837-b59de1a2315a-d83824ec">
+			<a class="primary-button best ad alt w-button" data-w-id="d5c8f4b3-d75c-f2a1-49ff-2957c5c1eae6" data-wf-id="[&quot;d5c8f4b3-d75c-f2a1-49ff-2957c5c1eae6&quot;]" href="https://affiliate.ipvanish.com/aff_c?offer_id=1&amp;aff_id=2072">Go to site</a>
+		</div>
+	</div>
+</div>
