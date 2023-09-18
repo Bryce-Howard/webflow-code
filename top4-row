@@ -2,7 +2,7 @@
 	<div class="card ad best" data-w-id="19a62aad-a124-27d0-b2e8-2fbf9a304a8b" data-wf-id="[&quot;19a62aad-a124-27d0-b2e8-2fbf9a304a8b&quot;]">
 		<div class="w-layout-hflex flex-ad-h" data-w-id="b6dc2c5c-97b2-56aa-c95a-cfa29e8861a5" data-wf-id="[&quot;b6dc2c5c-97b2-56aa-c95a-cfa29e8861a5&quot;]">
 			<div class="w-layout-vflex flex-ad first" data-w-id="e65e0161-2395-4901-1180-53dd53c4f9e6" data-wf-id="[&quot;e65e0161-2395-4901-1180-53dd53c4f9e6&quot;]">
-				<a class="best-button overall ad w-button" data-w-id="084556e9-dfb5-5ff8-d191-c4315208d64d" data-wf-id="[&quot;084556e9-dfb5-5ff8-d191-c4315208d64d&quot;]" href="https://go.nordvpn.net/aff_c?offer_id=15&amp;aff_id=92221">Best Overall</a><img alt="" data-w-id="0756e306-7ba4-18cc-8973-620302140f2d" data-wf-id="[&quot;0756e306-7ba4-18cc-8973-620302140f2d&quot;]" src="https://uploads-ssl.webflow.com/649dde332b9b5853a0794b13/64fb1692628acf6135c40d50_NordVPN.svg" width="200">
+				<a class="best-button overall ad w-button" data-w-id="084556e9-dfb5-5ff8-d191-c4315208d64d" data-wf-id="[&quot;084556e9-dfb5-5ff8-d191-c4315208d64d&quot;]" href="https://go.nordvpn.net/aff_c?offer_id=15&amp;aff_id=92221">Best Overall</a><img alt="" class="image-ad" data-w-id="0756e306-7ba4-18cc-8973-620302140f2d" data-wf-id="[&quot;0756e306-7ba4-18cc-8973-620302140f2d&quot;]" src="https://uploads-ssl.webflow.com/649dde332b9b5853a0794b13/64fb1692628acf6135c40d50_NordVPN.svg" width="200">
 			</div>
 			<div class="w-layout-vflex flex-ad middle" data-w-id="fd75e40d-7f4e-bf6b-169a-f71dedaf591b" data-wf-id="[&quot;fd75e40d-7f4e-bf6b-169a-f71dedaf591b&quot;]">
 				<div class="ad-text" data-w-id="945fed4d-b51e-959f-29a7-dd28ec32e0ff" data-wf-id="[&quot;945fed4d-b51e-959f-29a7-dd28ec32e0ff&quot;]">
@@ -41,7 +41,7 @@
 	<div class="card ad" data-w-id="255c9f89-09c5-3662-db04-565b3a011eae" data-wf-id="[&quot;255c9f89-09c5-3662-db04-565b3a011eae&quot;]">
 		<div class="w-layout-hflex flex-ad-h" data-w-id="255c9f89-09c5-3662-db04-565b3a011eaf" data-wf-id="[&quot;255c9f89-09c5-3662-db04-565b3a011eaf&quot;]">
 			<div class="w-layout-vflex flex-ad first" data-w-id="255c9f89-09c5-3662-db04-565b3a011eb0" data-wf-id="[&quot;255c9f89-09c5-3662-db04-565b3a011eb0&quot;]">
-				<img alt="" data-w-id="255c9f89-09c5-3662-db04-565b3a011eb1" data-wf-id="[&quot;255c9f89-09c5-3662-db04-565b3a011eb1&quot;]" src="https://uploads-ssl.webflow.com/649dde332b9b5853a0794b13/64fc6cd6cf0e897a27365084_surfshark_logo.svg" width="200">
+				<img alt="" class="image-ad" data-w-id="255c9f89-09c5-3662-db04-565b3a011eb1" data-wf-id="[&quot;255c9f89-09c5-3662-db04-565b3a011eb1&quot;]" src="https://uploads-ssl.webflow.com/649dde332b9b5853a0794b13/64fc6cd6cf0e897a27365084_surfshark_logo.svg" width="200">
 				<div class="ad-text alt" data-w-id="ba971a74-5477-d5fb-83f6-e341c3f5aa19" data-wf-id="[&quot;ba971a74-5477-d5fb-83f6-e341c3f5aa19&quot;]">
 					Best for Optimization
 				</div>
@@ -83,7 +83,7 @@
 	<div class="card ad" data-w-id="9f30a3cb-a443-bcf3-5826-e19857d8d1bc" data-wf-id="[&quot;9f30a3cb-a443-bcf3-5826-e19857d8d1bc&quot;]">
 		<div class="w-layout-hflex flex-ad-h" data-w-id="9f30a3cb-a443-bcf3-5826-e19857d8d1bd" data-wf-id="[&quot;9f30a3cb-a443-bcf3-5826-e19857d8d1bd&quot;]">
 			<div class="w-layout-vflex flex-ad first" data-w-id="9f30a3cb-a443-bcf3-5826-e19857d8d1be" data-wf-id="[&quot;9f30a3cb-a443-bcf3-5826-e19857d8d1be&quot;]">
-				<img alt="" data-w-id="9f30a3cb-a443-bcf3-5826-e19857d8d1bf" data-wf-id="[&quot;9f30a3cb-a443-bcf3-5826-e19857d8d1bf&quot;]" src="https://uploads-ssl.webflow.com/649dde332b9b5853a0794b13/64fc77306b4ef83f4e31beea_Ip-Vanish.svg" width="200">
+				<img alt="" class="image-ad" data-w-id="9f30a3cb-a443-bcf3-5826-e19857d8d1bf" data-wf-id="[&quot;9f30a3cb-a443-bcf3-5826-e19857d8d1bf&quot;]" src="https://uploads-ssl.webflow.com/649dde332b9b5853a0794b13/64fc77306b4ef83f4e31beea_Ip-Vanish.svg" width="200">
 				<div class="ad-text alt" data-w-id="2aec2207-77d5-1131-febf-534f346ba4e6" data-wf-id="[&quot;2aec2207-77d5-1131-febf-534f346ba4e6&quot;]">
 					Best for Encryption
 				</div>
@@ -125,7 +125,7 @@
 	<div class="card ad" data-w-id="231f4abe-eaa5-acc1-0cdb-c406c8d122cd" data-wf-id="[&quot;231f4abe-eaa5-acc1-0cdb-c406c8d122cd&quot;]">
 		<div class="w-layout-hflex flex-ad-h" data-w-id="231f4abe-eaa5-acc1-0cdb-c406c8d122ce" data-wf-id="[&quot;231f4abe-eaa5-acc1-0cdb-c406c8d122ce&quot;]">
 			<div class="w-layout-vflex flex-ad first" data-w-id="231f4abe-eaa5-acc1-0cdb-c406c8d122cf" data-wf-id="[&quot;231f4abe-eaa5-acc1-0cdb-c406c8d122cf&quot;]">
-				<img alt="" data-w-id="231f4abe-eaa5-acc1-0cdb-c406c8d122d0" data-wf-id="[&quot;231f4abe-eaa5-acc1-0cdb-c406c8d122d0&quot;]" src="https://uploads-ssl.webflow.com/649dde332b9b5853a0794b13/65008afabf51e7b7b274463e_Logo3.20221027064701.webp" width="200">
+				<img alt="" class="image-ad" data-w-id="231f4abe-eaa5-acc1-0cdb-c406c8d122d0" data-wf-id="[&quot;231f4abe-eaa5-acc1-0cdb-c406c8d122d0&quot;]" src="https://uploads-ssl.webflow.com/649dde332b9b5853a0794b13/65008afabf51e7b7b274463e_Logo3.20221027064701.webp" width="200">
 				<div class="ad-text alt" data-w-id="231f4abe-eaa5-acc1-0cdb-c406c8d122d1" data-wf-id="[&quot;231f4abe-eaa5-acc1-0cdb-c406c8d122d1&quot;]">
 					Best for Price
 				</div>
